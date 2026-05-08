@@ -1,0 +1,4457 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<Database>
+<LocalizedText>
+<Replace Tag="LOC_CIVILIZATION_RANDOM_NAME" Language="fr_FR">
+<Text>Rastgele</Text>
+</Replace>
+<Replace Tag="LOC_GRAMMAR_A_AN" Language="fr_FR">
+<Text/>
+</Replace>
+<Replace Tag="LOC_GRAMMAR_A_AN_WITH_ICON" Language="fr_FR">
+<Text/>
+</Replace>
+<Replace Tag="LOC_GRAMMAR_COMMA_SEPARATOR" Language="fr_FR">
+<Text>,</Text>
+</Replace>
+<Replace Tag="LOC_GRAMMAR_UPPER_A_AN" Language="fr_FR">
+<Text/>
+</Replace>
+<Replace Tag="LOC_GRAMMAR_UPPER_A_AN_WITH_ICON" Language="fr_FR">
+<Text/>
+</Replace>
+<Replace Tag="LOC_LEADER_RANDOM_NAME" Language="fr_FR">
+<Text>Rastgele</Text>
+</Replace>
+<Replace Tag="LOC_ABUSE_REPORT_BAD_REMARKS" Language="fr_FR">
+<Text>Kötü Açıklamalar</Text>
+</Replace>
+<Replace Tag="LOC_ABUSE_REPORT_BAD_REMARKS_TOOLTIP" Language="fr_FR">
+<Text>Oyuncu kışkırtıcı ifadeler kullanıyor.</Text>
+</Replace>
+<Replace Tag="LOC_ABUSE_REPORT_CHEATING" Language="fr_FR">
+<Text>Hile yapmak</Text>
+</Replace>
+<Replace Tag="LOC_ABUSE_REPORT_CHEATING_TOOLTIP" Language="fr_FR">
+<Text>Oyuncu hile yapıyor.</Text>
+</Replace>
+<Replace Tag="LOC_ABUSE_REPORT_FOUL_LANGUAGE" Language="fr_FR">
+<Text>Küfürlü Konuşma</Text>
+</Replace>
+<Replace Tag="LOC_ABUSE_REPORT_FOUL_LANGUAGE_TOOLTIP" Language="fr_FR">
+<Text>Oyuncu uygunsuz bir dil kullanıyor.</Text>
+</Replace>
+<Replace Tag="LOC_ACCEPT" Language="fr_FR">
+<Text>Kabul et</Text>
+</Replace>
+<Replace Tag="LOC_ACCEPT_HELP" Language="fr_FR">
+<Text>Bir öğe seçin veya Kabul edin</Text>
+</Replace>
+<Replace Tag="LOC_AGE_TRANSITION_CIV_LOCKED" Language="fr_FR">
+<Text>Kilitli</Text>
+</Replace>
+<Replace Tag="LOC_AGE_TRANSITION_EDIT_MEMENTOS" Language="fr_FR">
+<Text>Hatıra Eşyalarını Değiştirin</Text>
+</Replace>
+<Replace Tag="LOC_AGE_TRANSITION_SCREEN_TITLE" Language="fr_FR">
+<Text>Yeni Bir Kültür Ortaya Çıkıyor</Text>
+</Replace>
+<Replace Tag="LOC_AGE_TRANSITION_VIEW_DETAILS" Language="fr_FR">
+<Text>Detayları Görüntüle</Text>
+</Replace>
+<Replace Tag="LOC_AUTHORS_FIRAXIS" Language="fr_FR">
+<Text>Firaxis Games</Text>
+</Replace>
+<Replace Tag="LOC_CAMERA_PAN" Language="fr_FR">
+<Text>Pan Kamera</Text>
+</Replace>
+<Replace Tag="LOC_CAMERA_PAN_HELP" Language="fr_FR">
+<Text>Kamerayı Dünyada Taşı</Text>
+</Replace>
+<Replace Tag="LOC_CAMERA_ZOOM_IN" Language="fr_FR">
+<Text>Yakınlaştır</Text>
+</Replace>
+<Replace Tag="LOC_CAMERA_ZOOM_IN_HELP" Language="fr_FR">
+<Text>Haritayı yakınlaştırın</Text>
+</Replace>
+<Replace Tag="LOC_CAMERA_ZOOM_OUT" Language="fr_FR">
+<Text>Uzaklaştır</Text>
+</Replace>
+<Replace Tag="LOC_CAMERA_ZOOM_OUT_HELP" Language="fr_FR">
+<Text>Haritayı uzaklaştırın</Text>
+</Replace>
+<Replace Tag="LOC_CANCEL" Language="fr_FR">
+<Text>İptal</Text>
+</Replace>
+<Replace Tag="LOC_CANCEL_HELP" Language="fr_FR">
+<Text>Bir ekrandan geri dönme veya bir öğeyi iptal etme</Text>
+</Replace>
+<Replace Tag="LOC_CHAT_GLOBAL" Language="fr_FR">
+<Text>Küresel</Text>
+</Replace>
+<Replace Tag="LOC_CHAT_TEAM" Language="fr_FR">
+<Text>Takım</Text>
+</Replace>
+<Replace Tag="LOC_CIVILIZATION_RANDOM_DESCRIPTION" Language="fr_FR">
+<Text>Sizin için bir uygarlık seçilecektir.</Text>
+</Replace>
+<Replace Tag="LOC_CLOSEMGR_CONFIRM_BODY" Language="fr_FR">
+<Text>Bırakmak istediğine emin misin?</Text>
+</Replace>
+<Replace Tag="LOC_CLOSEMGR_CONFIRM_TITLE" Language="fr_FR">
+<Text>Çıkmayı Onayla</Text>
+</Replace>
+<Replace Tag="LOC_COPYRIGHT_BLOCK" Language="fr_FR">
+<Text>© 1991-2025 Take-Two Interactive Software, Inc. Firaxis Games tarafından geliştirilmiştir. 2K, Firaxis Games, Sid Meier's Civilization VII, Sid Meier's Civilization, Civilization, Civ ve ilgili logoları Take-Two Interactive Software, Inc. şirketinin ticari markalarıdır. Sid Meier's Civilization VII Coherent Labs kullanıcı arayüzü teknolojisini kullanır. Telif Hakkı 2012-2025 Coherent Labs. Tüm hakları saklıdır. Wwise tarafından desteklenmektedir © 2006-2025 Audiokinetic Inc. Tüm hakları saklıdır. Oodle kullanır. Telif Hakkı © 2008-2025 Epic Games Tools, LLC. Quixel Megascans ® kullanır, Telif Hakkı © 2017 Quixel AB.</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_CIV_UNIQUE_BONUSES_SUBTITLE" Language="fr_FR">
+<Text>Benzersiz Birimler ve Binalar</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_ADD_MEMENTO_MAJOR" Language="fr_FR">
+<Text>Memento Ekle</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_ADD_MEMENTO_MINOR" Language="fr_FR">
+<Text>Memento Ekle</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_AGE_CIV_SELECT_CATEGORY" Language="fr_FR">
+<Text>Çağ ve Uygarlık</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_AGE_UNLOCK_TITLE" Language="fr_FR">
+<Text>Çağ Kilitleri Açılıyor</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_BUYABLE" Language="fr_FR">
+<Text>Bu lideri satın almak için seçin</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_GAME_START_CATEGORY" Language="fr_FR">
+<Text>Onaylayın</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" Language="fr_FR">
+<Text>Coğrafi Seçim!</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_HISTORICAL_CHOICE" Language="fr_FR">
+<Text>Tarihi Seçim!</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_LEADER_SELECT_CATEGORY" Language="fr_FR">
+<Text>Lider</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_LEADER_TO_AGE" Language="fr_FR">
+<Text>içinde</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_LEADER_TO_CIV" Language="fr_FR">
+<Text>.</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_NEXT_UNLOCK_TITLE" Language="fr_FR">
+<Text>Sonraki Seviye Kilit Açma</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_POPUP_TITLE" Language="fr_FR">
+<Text>2K Mağaza</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_RECOMMENDED_CHOICE" Language="fr_FR">
+<Text>Tavsiye Edilen Seçim!</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_STRATEGIC_CHOICE" Language="fr_FR">
+<Text>Stratejik Seçim!</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_BODY_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel crossplay'iniz 2K hesabınızla bağlantılı olanla çakışıyor. Devam etmek için bir sürüm seçmeniz gerekecek. Lütfen bu cihazla ve 2K hesabınızla senkronize edilmek üzere saklayacağınız crossplay kaydını seçin.</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_BODY_CONSOLE_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel crossplay kaydınız 2K hesabınızla bağlantılı olanla çakışıyor. Devam etmek için bir sürüm seçmeniz gerekecek. Lütfen bu konsol ve 2K hesabınızla senkronize edilmek üzere saklayacağınız crossplay kaydını seçin.</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_CHOICE_1_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel Çapraz Oyun</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_CHOICE_2_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>2K Bağlantılı Çapraz Oyun</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_TITLE_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>2K Bağlantılı Hesap Çapraz Oyun Kaydetme Çatışması</Text>
+</Replace>
+<Replace Tag="LOC_EDIT_MEMENTOS_CANCEL" Language="fr_FR">
+<Text>İptal</Text>
+</Replace>
+<Replace Tag="LOC_EDIT_MEMENTOS_CONFIRM" Language="fr_FR">
+<Text>Onaylayın</Text>
+</Replace>
+<Replace Tag="LOC_EDIT_MEMENTOS_SHOWALL" Language="fr_FR">
+<Text>Tüm Lider Hatıralarını Göster</Text>
+</Replace>
+<Replace Tag="LOC_EDIT_MEMENTOS_TITLE" Language="fr_FR">
+<Text>Hatıraları Seçin</Text>
+</Replace>
+<Replace Tag="LOC_FILTERS_AUTOSAVES" Language="fr_FR">
+<Text>Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_FOCUS_PLOT_CURSOR" Language="fr_FR">
+<Text>Odak Çizim İmleci</Text>
+</Replace>
+<Replace Tag="LOC_FOCUS_PLOT_CURSOR_HELP" Language="fr_FR">
+<Text>Geçerli seçili çizim karosuna odaklanın</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_APP_SLEPT" Language="fr_FR">
+<Text>Uyku modu nedeniyle ağ bağlantısı kesildi.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_APP_SLEPT_TITLE" Language="fr_FR">
+<Text>Bağlantı kesildi</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_CONNECTION_LOST" Language="fr_FR">
+<Text>Ağ bağlantısı kesildi.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE" Language="fr_FR">
+<Text>Bağlantı kesildi</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_CLIENT" Language="fr_FR">
+<Text>Crossplay devre dışıyken Crossplay oyunlarına katılamazsınız. Crossplay'i Seçenekler Menüsünden etkinleştirebilirsiniz.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_CLIENT_TITLE" Language="fr_FR">
+<Text>Çapraz Oyun Devre Dışı</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_HOST" Language="fr_FR">
+<Text>Bu oyuna katılamazsınız. Crossplay devre dışı bırakıldı ve başka bir platformda barındırılıyor.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_HOST_TITLE" Language="fr_FR">
+<Text>Çapraz Oyun Uyuşmazlığı</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_GAME_STARTED" Language="fr_FR">
+<Text>Bu oyuna katılamazsınız. Zaten devam ediyor.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_GAME_STARTED_TITLE" Language="fr_FR">
+<Text>Oyun Devam Ediyor</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_HOST_LOSTED" Language="fr_FR">
+<Text>Ana bilgisayarla ağ bağlantısı kesildi.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE" Language="fr_FR">
+<Text>Ana Bilgisayar Bağlantısı Kayboldu</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_JOIN_FAILED" Language="fr_FR">
+<Text>Çok oyunculu oturuma katılırken hata oluştu.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE" Language="fr_FR">
+<Text>Katılma Başarısız</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_KICK_PLATFORM_MAPSIZE" Language="fr_FR">
+<Text>Bu oyuna katılamazsınız. Harita boyutu bu platformla uyumlu değil.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_KICK_PLATFORM_MAPSIZE_TITLE" Language="fr_FR">
+<Text>Harita Boyutu Desteklenmiyor</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_KICKED" Language="fr_FR">
+<Text>Oyundan atıldın.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_KICKED_TITLE" Language="fr_FR">
+<Text>Tekmelendi!</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_LOBBY_CONNECT" Language="fr_FR">
+<Text>Oyun lobisine bağlanılamıyor.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_LOBBY_CONNECT_TITLE" Language="fr_FR">
+<Text>Lobi Bağlantısı Başarısız</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MATCH_DELETED" Language="fr_FR">
+<Text>Ev sahibi oyunu sildi.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MATCH_DELETED_TITLE" Language="fr_FR">
+<Text>Oyun Silindi</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED" Language="fr_FR">
+<Text>Steam Atölyesi gerekli ek içeriğe erişimi reddetti.[N]İçerik:[N]</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MOD_ERROR" Language="fr_FR">
+<Text>Ek içerik uygulanamıyor.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE" Language="fr_FR">
+<Text>Mod Hatası</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MOD_MISSING" Language="fr_FR">
+<Text>Ek içerik gereklidir ancak ya satın alınmamıştır ya da yüklenmemiştir.[N]İçerik:[N]</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED" Language="fr_FR">
+<Text>Bu oyun, yüklü olmayan ek içerik gerektirir. Ek içeriğin otomatik olarak indirilmesi şu anda devre dışıdır. Otomatik indirmeler Seçenekler Menüsünden etkinleştirilebilir.[N]İçerik:[N]</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE" Language="fr_FR">
+<Text>Mod Eksik</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_ROOM_FULL" Language="fr_FR">
+<Text>Oyun maksimum oyuncu sayısına sahiptir.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE" Language="fr_FR">
+<Text>Tam Oyun</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_TOO_MANY_MATCHES" Language="fr_FR">
+<Text>Şu anda çok fazla çok oyunculu oyundasınız. Tekrar denemeden önce mevcut oyunları tamamlayın veya çıkın.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_TOO_MANY_MATCHES_TITLE" Language="fr_FR">
+<Text>Çok Fazla Eşleşme</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE" Language="fr_FR">
+<Text>Sürüm Uyuşmazlığı</Text>
+</Replace>
+<Replace Tag="LOC_GAME_LIST_ERROR_GENERAL" Language="fr_FR">
+<Text>Oyun listesi güncellemesi başarısız oldu. Daha sonra tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_GAME_LIST_ERROR_TITLE" Language="fr_FR">
+<Text>Oyun Listesi Güncellemesi Başarısız</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_ACCEPT" Language="fr_FR">
+<Text>Kabul et</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_BACK" Language="fr_FR">
+<Text>Geri</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_CANCEL" Language="fr_FR">
+<Text>İptal</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_CIVILIZATION" Language="fr_FR">
+<Text>Uygarlık</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_CLOSE" Language="fr_FR">
+<Text>Kapat</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_CONFIRM" Language="fr_FR">
+<Text>Onaylayın</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_CONTINUE" Language="fr_FR">
+<Text>Devam et</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_DATE" Language="fr_FR">
+<Text>Tarih</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_DESELECT" Language="fr_FR">
+<Text>Seçimi kaldır</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_GO" Language="fr_FR">
+<Text>Git</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_HIDE_DETAILS" Language="fr_FR">
+<Text>Detayları Gizle</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_LEADER" Language="fr_FR">
+<Text>Lider</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_LESS_INFO" Language="fr_FR">
+<Text>Daha Az Bilgi</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_LOGOUT" Language="fr_FR">
+<Text>Oturum Kapatma</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_MORE_INFO" Language="fr_FR">
+<Text>Daha Fazla Bilgi</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_NO" Language="fr_FR">
+<Text>Hayır</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_OK" Language="fr_FR">
+<Text>TAMAM.</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_PLAYER_NAME" Language="fr_FR">
+<Text>Oyuncu Adı</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_POSITION" Language="fr_FR">
+<Text>Pozisyon</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_RANK" Language="fr_FR">
+<Text>Rütbe</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_REDEEM" Language="fr_FR">
+<Text>Kurtarmak</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_REDEEMCODE" Language="fr_FR">
+<Text>Kod Kullan</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_RESUME" Language="fr_FR">
+<Text>Özgeçmiş</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_SAVE" Language="fr_FR">
+<Text>Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_SCORE" Language="fr_FR">
+<Text>Skor</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_SELECT" Language="fr_FR">
+<Text>Seçiniz</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_SHOW_DETAILS" Language="fr_FR">
+<Text>Detayları Göster</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_TWOKPORTAL" Language="fr_FR">
+<Text>2K Portal</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_UNLINK" Language="fr_FR">
+<Text>Bağlantıyı Kaldır</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_YES" Language="fr_FR">
+<Text>Evet</Text>
+</Replace>
+<Replace Tag="LOC_GESTURE_THUMB_AXIS" Language="fr_FR">
+<Text>Çubukları kullanan eylemler</Text>
+</Replace>
+<Replace Tag="LOC_GESTURE_THUMB_AXIS_MICROSOFT" Language="fr_FR">
+<Text>Çubukları kullanan eylemler</Text>
+</Replace>
+<Replace Tag="LOC_GESTURE_THUMB_AXIS_PS4" Language="fr_FR">
+<Text>Çubukları kullanan eylemler</Text>
+</Replace>
+<Replace Tag="LOC_GESTURE_THUMB_AXIS_PS5" Language="fr_FR">
+<Text>Çubukları kullanan eylemler</Text>
+</Replace>
+<Replace Tag="LOC_GROUPID_ADVANCEDOPTIONS" Language="fr_FR">
+<Text>Gelişmiş</Text>
+</Replace>
+<Replace Tag="LOC_GROUPID_GAMEOPTIONS" Language="fr_FR">
+<Text>Genel</Text>
+</Replace>
+<Replace Tag="LOC_GROUPID_MAPOPTIONS" Language="fr_FR">
+<Text>Haritaya Özel</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_CITY" Language="fr_FR">
+<Text>Şehir</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_DIAL" Language="fr_FR">
+<Text>Kadran Seçici</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_DIPLOMACY" Language="fr_FR">
+<Text>Diplomasi</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_HUD" Language="fr_FR">
+<Text>HUD</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_PANEL" Language="fr_FR">
+<Text>Panel</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_PLACEMENT" Language="fr_FR">
+<Text>Yerleştirme</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_RADIAL_MENU" Language="fr_FR">
+<Text>Radyal Menü</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_SHELL" Language="fr_FR">
+<Text>Kabuk</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_UNIT" Language="fr_FR">
+<Text>Birim</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_WORLD" Language="fr_FR">
+<Text>Dünya</Text>
+</Replace>
+<Replace Tag="LOC_INPUT_CONTEXT_WORLD_BUILDER" Language="fr_FR">
+<Text>Dünya Oluşturucu</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_BANNED_BODY" Language="fr_FR">
+<Text>çok oyunculu oyundan men edildiniz</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_BANNED_TITLE" Language="fr_FR">
+<Text>Kullanıcı Yasaklandı</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_CHILD_ACCOUNT" Language="fr_FR">
+<Text>2K Hesabı yetkili değil. Lütfen çevrimiçi oynamak için bir ebeveyn veya vasiden izin isteyin.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_CONNECTION_REJECTED" Language="fr_FR">
+<Text>Oyun sunucusuna bağlanılamadı. Bir Katılım Kodu kullanıyorsanız, kontrol edin ve tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_JOINCODE_SYNTAX" Language="fr_FR">
+<Text>Hatalı Katılım Kodu. Katılım Kodunu kontrol edin ve tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_JOINCODE_TRANSPORT" Language="fr_FR">
+<Text>Bu Katılım Kodunun çok oyunculu modu desteklenmemektedir.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_LINK_ACCOUNT" Language="fr_FR">
+<Text>Bir 2K Hesabı bağlanmalıdır.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_LINK_INCOMPLETE" Language="fr_FR">
+<Text>Bir 2K Hesabı tamamlanmalıdır.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_MATCHMAKING_FAILED" Language="fr_FR">
+<Text>Eşleştirme başarısız oldu. Lütfen oyunu yeniden başlatın ve tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_NO_ONLINE_SUB" Language="fr_FR">
+<Text>Çok oyunculu oynamak için çevrimiçi abonelik gereklidir.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_ROOM_FULL" Language="fr_FR">
+<Text>Oyun dolu.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_ROOM_UNKNOWN_ERROR" Language="fr_FR">
+<Text>Oyuna katılmaya çalışırken bilinmeyen bir hatayla karşılaşıldı. Lütfen oyunu yeniden başlatın ve tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_SESSION_ERROR" Language="fr_FR">
+<Text>Oyuna katılma denemesi başlatılamadı. Lütfen oyunu yeniden başlatın ve tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_JOIN_GAME_SESSION_UNEXPECTED" Language="fr_FR">
+<Text>Oyuna katılmaya çalışırken beklenmeyen bir durumla karşılaşıldı. Lütfen oyunu yeniden başlatın ve tekrar deneyin.</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_ALT" Language="fr_FR">
+<Text>ALT</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_CAMERA_MODIFIER" Language="fr_FR">
+<Text>Kamera Değiştirici</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_CTRL" Language="fr_FR">
+<Text>Kontrol</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_DOWN" Language="fr_FR">
+<Text>Klavye Aşağı</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_ENTER" Language="fr_FR">
+<Text>Klavye Enter</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_ESCAPE" Language="fr_FR">
+<Text>Klavye Kaçışı</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_LEFT" Language="fr_FR">
+<Text>Klavye Sol</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_RIGHT" Language="fr_FR">
+<Text>Klavye Sağ</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_SHIFT" Language="fr_FR">
+<Text>Vardiya</Text>
+</Replace>
+<Replace Tag="LOC_KEYBOARD_UP" Language="fr_FR">
+<Text>Klavye Yukarı</Text>
+</Replace>
+<Replace Tag="LOC_KICK_DIALOG_TIMEOUT" Language="fr_FR">
+<Text>Başlatma oylamaları arasında en az 30 saniye beklemelisiniz.</Text>
+</Replace>
+<Replace Tag="LOC_KICK_DIALOG_TITLE" Language="fr_FR">
+<Text>Kick Player?</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_DE_DE_NAME" Language="fr_FR">
+<Text>Deutsch (Almanca)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_DEFAULT_NAME" Language="fr_FR">
+<Text>Sistem Varsayılanı</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_DEFAULT_NAME_CONSOLE" Language="fr_FR">
+<Text>Konsol Varsayılanı</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_EN_US_NAME" Language="fr_FR">
+<Text>İngilizce</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_ES_ES_NAME" Language="fr_FR">
+<Text>Español (İspanyolca)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_FR_FR_NAME" Language="fr_FR">
+<Text>Français (Fransızca)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_IT_IT_NAME" Language="fr_FR">
+<Text>Italiano (İtalyanca)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_JA_JP_NAME" Language="fr_FR">
+<Text>日本語 (Japonca)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_PL_PL_NAME" Language="fr_FR">
+<Text>polski (Lehçe)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_PT_BR_NAME" Language="fr_FR">
+<Text>Português (Portekizce)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_RU_RU_NAME" Language="fr_FR">
+<Text>Русский (Rusça)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_ZH_HANS_CN_NAME" Language="fr_FR">
+<Text>汉语 (Basitleştirilmiş Çince)</Text>
+</Replace>
+<Replace Tag="LOC_LANGUAGE_ZH_HANT_HK_NAME" Language="fr_FR">
+<Text>漢語 (Geleneksel Çince)</Text>
+</Replace>
+<Replace Tag="LOC_LEADER_RANDOM_DESCRIPTION" Language="fr_FR">
+<Text>Sizin için bir lider seçilecek.</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_BAD_MAPSIZE_BODY" Language="fr_FR">
+<Text>Harita boyutu bu platformla uyumlu değildir.</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_BAD_MAPSIZE_TITLE" Language="fr_FR">
+<Text>Harita Boyutu Desteklenmiyor</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_LINKED_ACCOUNT" Language="fr_FR">
+<Text>Bu Canlı Etkinlik kaydı için bağlantılı 2K hesabı gerekir</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_MOD_CONFIG" Language="fr_FR">
+<Text>İçerik yapılandırılamadı</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_MOD_CONTENT" Language="fr_FR">
+<Text>Gerekli içerik bulunamadı</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_MOD_OWNERSHIP" Language="fr_FR">
+<Text>İçerik yapılandırması eksik sahiplik yetkileri gerektiriyor</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_MOD_VALIDATION" Language="fr_FR">
+<Text>İçerik yapılandırma doğrulaması başarısız oldu</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_SCRIPT_PROCESSING" Language="fr_FR">
+<Text>Harita oluşturma betiğinde ölümcül bir hata oluştu</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_UNKNOWN" Language="fr_FR">
+<Text>Belirtilmemiş bir yapılandırma hatası oluştu</Text>
+</Replace>
+<Replace Tag="LOC_LOAD_GAME_ERROR_UNKNOWN_VERSION" Language="fr_FR">
+<Text>Kaydet dosyasının desteklenmeyen bir sürümü var</Text>
+</Replace>
+<Replace Tag="LOC_LOBBY_ERROR_DEVICE_REMOVED" Language="fr_FR">
+<Text>Cihaz kaldırıldı.</Text>
+</Replace>
+<Replace Tag="LOC_LOBBY_ERROR_GENERAL" Language="fr_FR">
+<Text>Lobi bir hatayla karşılaştı.</Text>
+</Replace>
+<Replace Tag="LOC_LOBBY_ERROR_NO_ERROR" Language="fr_FR">
+<Text>Lobide hata yok.</Text>
+</Replace>
+<Replace Tag="LOC_LOBBY_ERROR_TITLE" Language="fr_FR">
+<Text>Lobi Hatası</Text>
+</Replace>
+<Replace Tag="LOC_LOBBY_ERROR_UNKNOWN_ERROR" Language="fr_FR">
+<Text>Lobi bilinmeyen bir hatayla karşılaştı.</Text>
+</Replace>
+<Replace Tag="LOC_LOBBY_ERROR_WIFI_OFF" Language="fr_FR">
+<Text>Wifi mevcut değildir.</Text>
+</Replace>
+<Replace Tag="LOC_METAPROGRESSION_CHALLENGE_TUTORIAL_REWARD_UNLOCKED_TEXT" Language="fr_FR">
+<Text>Tüm eğitim görevlerini tamamladı</Text>
+</Replace>
+<Replace Tag="LOC_MODDING_ERROR_CONTENT" Language="fr_FR">
+<Text>Modlama içeriğini yapılandırmaya çalışırken bir veya daha fazla hata oluştu.</Text>
+</Replace>
+<Replace Tag="LOC_MODDING_ERROR_REASON_GAMEPLAY_DATABASE" Language="fr_FR">
+<Text>Oyun veritabanı doğrulaması başarısız oldu! Ek ayrıntılar için Database.log dosyasına bakın.</Text>
+</Replace>
+<Replace Tag="LOC_MODDING_ERROR_UNKNOWN" Language="fr_FR">
+<Text>Oyunu başlatmaya çalışırken bilinmeyen bir hata oluştu.</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_BUTTON_LEFT" Language="fr_FR">
+<Text>Sol Fare Düğmesi</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_BUTTON_MIDDLE" Language="fr_FR">
+<Text>Orta Fare Düğmesi</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_BUTTON_RIGHT" Language="fr_FR">
+<Text>Sağ Fare Düğmesi</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_BUTTON_X1" Language="fr_FR">
+<Text>X1 Fare Düğmesi</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_BUTTON_X2" Language="fr_FR">
+<Text>X2 Fare Düğmesi</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_SCROLLWHEEL_DOWN" Language="fr_FR">
+<Text>Tekerleği Aşağı Kaydır</Text>
+</Replace>
+<Replace Tag="LOC_MOUSE_SCROLLWHEEL_UP" Language="fr_FR">
+<Text>Kaydırma Tekerleği Yukarı</Text>
+</Replace>
+<Replace Tag="LOC_MOVE_CURSOR" Language="fr_FR">
+<Text>Navigasyon</Text>
+</Replace>
+<Replace Tag="LOC_MOVE_CURSOR_HELP" Language="fr_FR">
+<Text>Menü öğeleri arasında gezinme</Text>
+</Replace>
+<Replace Tag="LOC_MP_CANT_PLAY_ONLINE_ERROR_TITLE" Language="fr_FR">
+<Text>Çevrimiçi Oynayamıyorum</Text>
+</Replace>
+<Replace Tag="LOC_MP_CREATE_GAME_WAITING_BODY" Language="fr_FR">
+<Text>Lütfen bekleyin. . .</Text>
+</Replace>
+<Replace Tag="LOC_MP_CREATE_GAME_WAITING_TITLE" Language="fr_FR">
+<Text>Oyun Oluşturma</Text>
+</Replace>
+<Replace Tag="LOC_MP_JOIN_PARENT_PERMISSIONS_DISABLED" Language="fr_FR">
+<Text>2K Hesabı yetkili değildir, lütfen çevrimiçi oynamak için bir ebeveyn veya vasiden izin isteyin.</Text>
+</Replace>
+<Replace Tag="LOC_MP_JOINING_ERROR_TITLE" Language="fr_FR">
+<Text>Birleştirme Hatası</Text>
+</Replace>
+<Replace Tag="LOC_MP_JOINING_GAME_BODY" Language="fr_FR">
+<Text>Lütfen bekleyin. . .</Text>
+</Replace>
+<Replace Tag="LOC_MP_JOINING_GAME_TITLE" Language="fr_FR">
+<Text>Bir oyuna katılma</Text>
+</Replace>
+<Replace Tag="LOC_MP_MATCHMAKING_GAME_TITLE" Language="fr_FR">
+<Text>Lobi aranıyor</Text>
+</Replace>
+<Replace Tag="LOC_MP_PARENT_PERMISSIONS_TITLE" Language="fr_FR">
+<Text>Ebeveyn İzinleri</Text>
+</Replace>
+<Replace Tag="LOC_MUTE_DIALOG_TITLE" Language="fr_FR">
+<Text>Sessiz Oyuncu mu?</Text>
+</Replace>
+<Replace Tag="LOC_NAV_DOWN" Language="fr_FR">
+<Text>Aşağı</Text>
+</Replace>
+<Replace Tag="LOC_NAV_DOWN_HELP" Language="fr_FR">
+<Text>Aşağı Gezin</Text>
+</Replace>
+<Replace Tag="LOC_NAV_LEFT" Language="fr_FR">
+<Text>Sol</Text>
+</Replace>
+<Replace Tag="LOC_NAV_LEFT_HELP" Language="fr_FR">
+<Text>Sola Git</Text>
+</Replace>
+<Replace Tag="LOC_NAV_MOVE_CURSOR" Language="fr_FR">
+<Text>İmleci Harita Üzerinde Taşı</Text>
+</Replace>
+<Replace Tag="LOC_NAV_NEXT" Language="fr_FR">
+<Text>Sonraki</Text>
+</Replace>
+<Replace Tag="LOC_NAV_NEXT_HELP" Language="fr_FR">
+<Text>Sonraki Sekme</Text>
+</Replace>
+<Replace Tag="LOC_NAV_PAN" Language="fr_FR">
+<Text>Etrafınıza Bakın</Text>
+</Replace>
+<Replace Tag="LOC_NAV_PREVIOUS" Language="fr_FR">
+<Text>Önceki</Text>
+</Replace>
+<Replace Tag="LOC_NAV_PREVIOUS_HELP" Language="fr_FR">
+<Text>Önceki Sekme</Text>
+</Replace>
+<Replace Tag="LOC_NAV_RADIAL_BEAM" Language="fr_FR">
+<Text>Kirişi hareket ettir</Text>
+</Replace>
+<Replace Tag="LOC_NAV_RADIAL_MENU" Language="fr_FR">
+<Text>Radyal Menü</Text>
+</Replace>
+<Replace Tag="LOC_NAV_RIGHT" Language="fr_FR">
+<Text>Doğru.</Text>
+</Replace>
+<Replace Tag="LOC_NAV_RIGHT_HELP" Language="fr_FR">
+<Text>Sağa Dön</Text>
+</Replace>
+<Replace Tag="LOC_NAV_SELECT" Language="fr_FR">
+<Text>Seçiniz</Text>
+</Replace>
+<Replace Tag="LOC_NAV_UP" Language="fr_FR">
+<Text>Yukarı</Text>
+</Replace>
+<Replace Tag="LOC_NAV_UP_HELP" Language="fr_FR">
+<Text>Yukarı Gezin</Text>
+</Replace>
+<Replace Tag="LOC_NAVIGATE_YIELDS" Language="fr_FR">
+<Text>Verim</Text>
+</Replace>
+<Replace Tag="LOC_NAVIGATE_YIELDS_HELP" Language="fr_FR">
+<Text>Açık Getiriler Özeti</Text>
+</Replace>
+<Replace Tag="LOC_NEXT_ACTION" Language="fr_FR">
+<Text>Sonraki Tur</Text>
+</Replace>
+<Replace Tag="LOC_NEXT_ACTION_HELP" Language="fr_FR">
+<Text>Sonraki Tur</Text>
+</Replace>
+<Replace Tag="LOC_NEXT_SELECT" Language="fr_FR">
+<Text>Sonraki Seçim</Text>
+</Replace>
+<Replace Tag="LOC_NOTIFICATION" Language="fr_FR">
+<Text>Bildirimler</Text>
+</Replace>
+<Replace Tag="LOC_NOTIFICATION_HELP" Language="fr_FR">
+<Text>Açık HUD Bildirimi</Text>
+</Replace>
+<Replace Tag="LOC_OOBE_TITLE_AUDIO" Language="fr_FR">
+<Text>Ses Seçeneklerinizi Seçin</Text>
+</Replace>
+<Replace Tag="LOC_OOBE_TITLE_AUTOSAVE" Language="fr_FR">
+<Text>Bu oyun otomatik kaydetmeyi destekler.[n]Lütfen bu simgeyi gördüğünüzde oyununuzu kapatmayın.</Text>
+</Replace>
+<Replace Tag="LOC_OOBE_TITLE_DISPLAY" Language="fr_FR">
+<Text>Ekran Seçeneklerinizi Seçin</Text>
+</Replace>
+<Replace Tag="LOC_OOBE_TITLE_LANGUAGE" Language="fr_FR">
+<Text>Dilinizi Seçin</Text>
+</Replace>
+<Replace Tag="LOC_OPEN_CULTURE_TREE" Language="fr_FR">
+<Text>Açık Kültür Ağacı</Text>
+</Replace>
+<Replace Tag="LOC_OPEN_LENS_PANEL" Language="fr_FR">
+<Text>Harita Seçenekleri</Text>
+</Replace>
+<Replace Tag="LOC_OPEN_LENS_PANEL_HELP" Language="fr_FR">
+<Text>Harita Seçeneklerini Aç</Text>
+</Replace>
+<Replace Tag="LOC_OPEN_TECH_TREE" Language="fr_FR">
+<Text>Açık Teknoloji Ağacı</Text>
+</Replace>
+<Replace Tag="LOC_OPTION_KEY_QUOTE" Language="fr_FR">
+<Text>"</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCEPT" Language="fr_FR">
+<Text>Kabul et</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCEPT_CHANGES" Language="fr_FR">
+<Text>Değişiklikleri Kabul Et</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND" Language="fr_FR">
+<Text>Renk Körü Erişilebilirliği</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_DESCRIPTION" Language="fr_FR">
+<Text>Renk körlüğünün üç yaygın biçiminden birine sahip oyunculara yardımcı olmak için bazı oyun renklerini değiştirir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_DEUTERANOPIA" Language="fr_FR">
+<Text>Yeşil Kör Deuteranopia</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_NONE" Language="fr_FR">
+<Text>Standart renkler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_PROTANOPIA" Language="fr_FR">
+<Text>Kırmızı Kör Protanopi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_TRITANOPIA" Language="fr_FR">
+<Text>Mavi Kör Tritanopia</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ADAPTIVE_TRIGGERS_ENABLED" Language="fr_FR">
+<Text>Uyarlanabilir Tetikleyiciler etkin</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ADAPTIVE_TRIGGERS_ENABLED_DESCRIPTION" Language="fr_FR">
+<Text>Tetikleyici efekt işlevi oyunda etkinleştirilmişse.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ARE_YOU_SURE" Language="fr_FR">
+<Text>Emin misin?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ARE_YOU_SURE_DEFAULT" Language="fr_FR">
+<Text>Varsayılan ayarlara geri dönmek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE" Language="fr_FR">
+<Text>Dinamik Aralık</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_DESCRIPTION" Language="fr_FR">
+<Text>Dinamik Aralık - en yüksek ve en sessiz sesler arasındaki ses farkı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_NARROW" Language="fr_FR">
+<Text>Dar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_NARROW_DESCRIPTION" Language="fr_FR">
+<Text>En Küçük Dinamik Aralık - tüm sesler düşük ses seviyesinde, gürültülü ortamlarda veya menzili sınırlı hoparlörler tarafından duyulur.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_STANDARD" Language="fr_FR">
+<Text>Standart</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_STANDARD_DESCRIPTION" Language="fr_FR">
+<Text>Orta Dinamik Aralık - bu genellikle çoğu oyuncu için en iyi ayardır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_WIDE" Language="fr_FR">
+<Text>Geniş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_WIDE_DESCRIPTION" Language="fr_FR">
+<Text>En Geniş Dinamik Aralık - üst düzey ses sistemleri veya sessiz ortamlar için önerilir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_LANGUAGE" Language="fr_FR">
+<Text>Ses Dili</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_LANGUAGE_DESCRIPTION" Language="fr_FR">
+<Text>Anlatıcı tarafından kullanılan dili belirtin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_MUTEONFOCUSLOSS" Language="fr_FR">
+<Text>Odak Kaybında Sessiz</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_MUTEONFOCUSLOSS_DESCRIPTION" Language="fr_FR">
+<Text>Başka bir uygulamanın penceresine tıkladığınızda Civilization VII'nin sesini kapatır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_CINEMATICS" Language="fr_FR">
+<Text>Sinematik Hacmi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_CINEMATICS_DESCRIPTION" Language="fr_FR">
+<Text>Sinematikler sırasında ses yüksekliği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_MASTER" Language="fr_FR">
+<Text>Ana Ses Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_MASTER_DESCRIPTION" Language="fr_FR">
+<Text>Oyundaki tüm sesler için ses seviyesi kontrolü. Diğer tüm ses değerleri ana ses seviyesine göredir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_MUSIC" Language="fr_FR">
+<Text>Müzik Sesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_MUSIC_DESCRIPTION" Language="fr_FR">
+<Text>Arka plan müziğinin ses seviyesi.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_SFX" Language="fr_FR">
+<Text>Ses Efektleri Ses Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_SFX_DESCRIPTION" Language="fr_FR">
+<Text>Ortam sesleri ve birim hareketleri gibi ses efektlerinin yüksekliği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_UI" Language="fr_FR">
+<Text>Arayüz Hacmi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_UI_DESCRIPTION" Language="fr_FR">
+<Text>Bir düğmeyi kullanmak gibi kullanıcı arayüzü öğelerinin ses yüksekliği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_VOICE" Language="fr_FR">
+<Text>Ses Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUDIO_VOLUME_VOICE_DESCRIPTION" Language="fr_FR">
+<Text>Oyundaki liderlerin ve danışmanların ses yüksekliği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOENDTURN" Language="fr_FR">
+<Text>Otomatik Son Dönüş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOENDTURN_DESCRIPTION" Language="fr_FR">
+<Text>Oyun turunu otomatik olarak sonlandırın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOSAVE_BETWEEN" Language="fr_FR">
+<Text>Otomatik Kaydedilenler Arasında Dönüşler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOSAVE_BETWEEN_DESCRIPTION" Language="fr_FR">
+<Text>Otomatik kaydetmenin yapılacağı tur sayısı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOSAVE_KEEP_COUNT" Language="fr_FR">
+<Text>Otomatik Kaydetme Miktarı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOSAVE_KEEP_COUNT_DESCRIPTION" Language="fr_FR">
+<Text>Geçerli oyun için tutulan otomatik kaydetme sayısı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOUNITYCYCLE" Language="fr_FR">
+<Text>Otomatik Birim Döngüsü</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_AUTOUNITYCYCLE_DESCRIPTION" Language="fr_FR">
+<Text>Seçilen birim için tüm hareket puanlarını harcadıktan sonra, kalan hareket puanlarına sahip birimler arasında dolaşın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_BRIGHTNESS" Language="fr_FR">
+<Text>Parlaklık</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_BRIGHTNESS_DESCRIPTION" Language="fr_FR">
+<Text>Ekranın ne kadar parlak görüneceğini kalibre edin</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CAMERA_MOVEMENT_FRICTION" Language="fr_FR">
+<Text>Kamera Hareketi Sürtünmesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CAMERA_MOVEMENT_FRICTION_DESCRIPTION" Language="fr_FR">
+<Text>Analog çubukla kaydırırken kameraya ne kadar sürtünme uygulanacağı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CAMERA_PANNING_SPEED" Language="fr_FR">
+<Text>Kamera kaydırma hızı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CAMERA_PANNING_SPEED_DESCRIPTION" Language="fr_FR">
+<Text>Kaydırma sırasında kameranın ne kadar hızlı hareket ettiği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CANCEL" Language="fr_FR">
+<Text>İptal</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CANCEL_CHANGES" Language="fr_FR">
+<Text>Değişiklikleri İptal Et</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_ACCESSIBILITY" Language="fr_FR">
+<Text>Erişilebilirlik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_ACCESSIBILITY_DESCRIPTION" Language="fr_FR">
+<Text>Ekranı, Altyazıları ve Girişi Ayarlama</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_AUDIO" Language="fr_FR">
+<Text>Ses</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_AUDIO_DESCRIPTION" Language="fr_FR">
+<Text>Ses Ayarlarını Ayarlama</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_GAME" Language="fr_FR">
+<Text>Oyun</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_GAME_DESCRIPTION" Language="fr_FR">
+<Text>HUD, Otomatik Kaydetme ve Günün Saati Ayarlarını Yapın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_GRAPHICS" Language="fr_FR">
+<Text>Grafikler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_GRAPHICS_DESCRIPTION" Language="fr_FR">
+<Text>Medeniyetin Kalitesini ve Performansını Ayarlayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_INPUT" Language="fr_FR">
+<Text>Giriş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_INPUT_DESCRIPTION" Language="fr_FR">
+<Text>Kontrolleri Görüntüleme ve Yapılandırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_INTERFACE" Language="fr_FR">
+<Text>Arayüz</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_INTERFACE_DESCRIPTION" Language="fr_FR">
+<Text>Arayüz Ayarlarını Yapın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_SYSTEM" Language="fr_FR">
+<Text>Sistem</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_SYSTEM_CONSOLE" Language="fr_FR">
+<Text>Konsol</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CATEGORY_SYSTEM_DESCRIPTION" Language="fr_FR">
+<Text>Arayüz, Kamera ve Dokunmatik Ayarlarını Yapın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CITY_RANGED_ATTACK_TURN_BLOCKING" Language="fr_FR">
+<Text>Şehir Menzilli Saldırı Tur Engelleme</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CITY_RANGED_ATTACK_TURN_BLOCKING_DESCRIPTION" Language="fr_FR">
+<Text>Bir şehirden menzilli bir saldırının bir turunu sonlandıran blok gerçekleştirilebilir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CLOCK_FORMAT" Language="fr_FR">
+<Text>Saat Formatı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CLOCK_FORMAT_24HR" Language="fr_FR">
+<Text>24 Saat</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CLOCK_FORMAT_AMPM" Language="fr_FR">
+<Text>AM / PM</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CLOCK_FORMAT_DESCRIPTION" Language="fr_FR">
+<Text>Oyunun sistem panelinde gerçek dünya zamanının nasıl biçimlendirildiği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CONFIRM" Language="fr_FR">
+<Text>Onaylayın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CONFIRM_CHANGES" Language="fr_FR">
+<Text>Değişiklikleri Onayla</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CROSSPLAY" Language="fr_FR">
+<Text>Çapraz Oyun</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_CROSSPLAY_DESCRIPTION" Language="fr_FR">
+<Text>Diğer platformlardaki oyuncularla çok oyunculu oynayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_DEFAULT" Language="fr_FR">
+<Text>Varsayılan</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_DEFAULTS" Language="fr_FR">
+<Text>Varsayılanlar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_DEFAULTS_DESCRIPTION" Language="fr_FR">
+<Text>Tüm değişiklikleri varsayılan ayarlara geri döndürün.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_DISABLED_IN_GAME" Language="fr_FR">
+<Text>Bu seçenek oyun içindeyken değiştirilemez.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_DISPLAY_LANGUAGE" Language="fr_FR">
+<Text>Ekran Dili</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_EMBLEM_BRIGHTNESS" Language="fr_FR">
+<Text>Ayarları üst amblem görünmeyecek ve ortadaki kare zar zor görünecek şekilde yapın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_FGX_APPLY_CHANGES" Language="fr_FR">
+<Text>Değişiklikleri Uygula</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_FIRSTTIMETUTORIAL" Language="fr_FR">
+<Text>İlk Kez Eğitim</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_FIRSTTIMETUTORIAL_DESCRIPTION" Language="fr_FR">
+<Text>Oyunu başlatırken ilk kez öğreticiyi etkinleştirir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_FXS_CLEAR_CHANGES" Language="fr_FR">
+<Text>Açık Değişiklikler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_0" Language="fr_FR">
+<Text>Kapalı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_0_DESCRIPTION" Language="fr_FR">
+<Text>Uyarılar ve Öğreticiler kapalı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_0_TOOLTIP" Language="fr_FR">
+<Text>Uyarılar ve Öğreticiler kapalı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_1" Language="fr_FR">
+<Text>Sadece Uyarılar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_1_DESCRIPTION" Language="fr_FR">
+<Text>Öğretici yok. Bir şey risk altındaysa danışmanlar sizi bilgilendirecektir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_1_TOOLTIP" Language="fr_FR">
+<Text>Öğretici yok. Bir şey risk altındaysa danışmanlar sizi bilgilendirecektir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_2" Language="fr_FR">
+<Text>Öğreticiler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_2_DESCRIPTION" Language="fr_FR">
+<Text>Oynarken öğrenin. Uyarılar da etkinleştirilmiştir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_2_TOOLTIP" Language="fr_FR">
+<Text>Oynarken öğrenin. Uyarılar da etkinleştirilmiştir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_2_TOOLTIP_ALT" Language="fr_FR">
+<Text>Oynarken öğrenin. Uyarılar da etkinleştirilir. Değiştirilirse, Öğreticileri görmek için bu ayarla yeni bir oyun başlatmanız gerekecektir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GAME_TUTORIAL_3" Language="fr_FR">
+<Text>Yeni Oyuncu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_ASSET_QUALITY" Language="fr_FR">
+<Text>Varlık Kalitesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_ASSET_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Oyundaki 3B nesneler için ayrıntı düzeyini seçer. Yüksek daha ayrıntılı nesneler kullanırken, düşük daha basit, daha az ayrıntılı nesneler kullanır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_ASSET_QUALITY_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_ASSET_QUALITY_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_AUTO" Language="fr_FR">
+<Text>Otomatik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_BLOOM" Language="fr_FR">
+<Text>Bloom</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_BLOOM_DESCRIPTION" Language="fr_FR">
+<Text>Çiçeklenmeyi etkinleştirir. Bazı kamera sensörlerinin çalışma şeklini taklit ederek ekrandaki parlak alanların çevrelerine taşmasına neden olur.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_CALIBRATE_HDR" Language="fr_FR">
+<Text>HDR Kalibrasyonu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_CALIBRATE_HDR_DESCRIPTION" Language="fr_FR">
+<Text>Yüksek Dinamik Aralık ekranını kalibre edin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_CLOUD_SHADOWS" Language="fr_FR">
+<Text>Bulut Gölgelerini Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_CLOUD_SHADOWS_DESCRIPTION" Language="fr_FR">
+<Text>Bulutlardan gelen gölgeleri etkinleştirir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_AUTO" Language="fr_FR">
+<Text>Otomatik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_AUTO_DESCRIPTION" Language="fr_FR">
+<Text>Geçerli çıkış çözünürlüğü için en iyi DLSS Modunu seçer.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_BALANCED" Language="fr_FR">
+<Text>Dengeli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_BALANCED_DESCRIPTION" Language="fr_FR">
+<Text>Hem optimize edilmiş performans hem de görüntü kalitesi sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_DLAA" Language="fr_FR">
+<Text>DLAA</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_DLAA_DESCRIPTION" Language="fr_FR">
+<Text>Yapay zeka tabanlı kenar yumuşatma tekniği ile daha yüksek görüntü kalitesi sağlar. DLAA, DLSS için geliştirilen aynı Süper Çözünürlük teknolojisini kullanır ve görüntü kalitesini en üst düzeye çıkarmak için doğal çözünürlüklü bir görüntüyü yeniden yapılandırır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_PERFORMANCE" Language="fr_FR">
+<Text>Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_PERFORMANCE_DESCRIPTION" Language="fr_FR">
+<Text>Dengeli moddan daha yüksek bir performans artışı sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_QUALITY" Language="fr_FR">
+<Text>Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Dengeli moda göre daha yüksek görüntü kalitesi sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_SETTING" Language="fr_FR">
+<Text>NVidia DLSS Kalite Düzeyleri</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_SETTING_DESCRIPTION" Language="fr_FR">
+<Text>NVidia DLSS için kalite seviyesini ayarlayın. Daha yüksek kalite seviyeleri daha iyi görünürken, daha düşük olanlar daha hızlı çalışır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_ULTRA_PERFORMANCE" Language="fr_FR">
+<Text>Ultra Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_ULTRA_PERFORMANCE_DESCRIPTION" Language="fr_FR">
+<Text>En yüksek performans artışını sunar. Yalnızca 8K oyun için önerilir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_ENABLE_HDR" Language="fr_FR">
+<Text>HDR'yi Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_ENABLE_HDR_DESCRIPTION" Language="fr_FR">
+<Text>Yüksek Dinamik Aralık ekranını etkinleştirin (yeniden başlatma gerektirir).</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_BALANCED" Language="fr_FR">
+<Text>Dengeli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_PERFORMANCE" Language="fr_FR">
+<Text>Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_QUALITY" Language="fr_FR">
+<Text>Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_SETTING" Language="fr_FR">
+<Text>AMD FSR1 Yükseltme Kalite Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_SETTING_DESCRIPTION" Language="fr_FR">
+<Text>AMD FSR1 için kalite seviyesini ayarlayın. Daha yüksek kalite seviyeleri daha iyi görünürken, daha düşük olanlar daha hızlı çalışır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_ULTRA_QUALITY" Language="fr_FR">
+<Text>Ultra Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_BALANCED" Language="fr_FR">
+<Text>Dengeli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_BALANCED_DESCRIPTION" Language="fr_FR">
+<Text>Dengeli mod, görüntü kalitesi ve performans kazanımları arasında ideal bir uzlaşma sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_NATIVE" Language="fr_FR">
+<Text>Yerli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_NATIVE_DESCRIPTION" Language="fr_FR">
+<Text>Yerel AA modu, mütevazı bir performans maliyeti ile doğal görüntülemeden daha üstün bir görüntü kalitesi sağlar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_PERFORMANCE" Language="fr_FR">
+<Text>Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_PERFORMANCE_DESCRIPTION" Language="fr_FR">
+<Text>Performans modu, büyük bir performans kazancıyla birlikte doğal oluşturmaya benzer bir görüntü kalitesi sağlar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_QUALITY" Language="fr_FR">
+<Text>Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Kalite modu, önemli bir performans kazancı ile doğal görüntülemeye eşit veya daha üstün bir görüntü kalitesi sağlar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_SETTING" Language="fr_FR">
+<Text>AMD FSR3 Kalite Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_SETTING_DESCRIPTION" Language="fr_FR">
+<Text>AMD FSR3 için kalite seviyesini ayarlayın. Daha yüksek kalite seviyeleri daha iyi görünürken, daha düşük olanlar daha hızlı çalışır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_ULTRA_PERFORMANCE" Language="fr_FR">
+<Text>Ultra Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_ULTRA_PERFORMANCE_DESCRIPTION" Language="fr_FR">
+<Text>Ultra Performans modu, en yüksek performans kazancını sağlarken doğal görüntü oluşturmayı temsil eden bir görüntü kalitesini de korur.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_GENERAL_RESTRICTION" Language="fr_FR">
+<Text>Mevcut yapılandırılmış grafik seçenekleri ile ayarlanamaz.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_GPU_RESTRICTION" Language="fr_FR">
+<Text>Geçerli GPU seçiliyken ayarlanamaz.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_GPU_SELECTION" Language="fr_FR">
+<Text>GPU Seçimi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_GPU_SELECTION_DESCRIPTION" Language="fr_FR">
+<Text>Oyunu işlemek için kullanılan grafik donanımını seçin (yeniden başlatma gerektirir).</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_GRAPHICS_OPTIONS" Language="fr_FR">
+<Text>Grafik Seçenekleri</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_GRAPHICS_OPTIONS_RESTART" Language="fr_FR">
+<Text>Grafik Seçenekleri (Yeniden Başlatma Gerekli)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_HDR_NOT_AVAILABLE" Language="fr_FR">
+<Text>HDR bu cihazda mevcut değildir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_MSAA_QUALITY" Language="fr_FR">
+<Text>MSAA Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_1X" Language="fr_FR">
+<Text>1x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_2X" Language="fr_FR">
+<Text>2x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_4X" Language="fr_FR">
+<Text>4x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_8X" Language="fr_FR">
+<Text>8x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Kenarların daha pürüzsüz görünmesini sağlayın. Daha yüksek örnek sayıları daha iyi görünürken, daha düşük olanlar daha hızlı çalışır ve daha az bellek kullanır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_NOT_AVAILABLE_IN_GAME" Language="fr_FR">
+<Text>Bu seçenek sadece ana menüde mevcuttur.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY" Language="fr_FR">
+<Text>Parçacık Kalitesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Ateşler ve dumanlar gibi Parçacık Efektleri için kalite seviyesini seçer. Yüksek, daha ayrıntılı hareketlere sahip daha fazla parçacık anlamına gelirken, düşük daha az parçacık anlamına gelir ve daha hızlı çalışır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE" Language="fr_FR">
+<Text>Grafik Profili</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE_CUSTOM" Language="fr_FR">
+<Text>Özel</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE_DESCRIPTION" Language="fr_FR">
+<Text>Hedef kalite seviyesine göre gelişmiş grafik seçeneklerini seçer. Bu profil seçeneklerinin kullanılması, gelişmiş grafik seçeneklerine aşina olmayan kullanıcılar için önerilir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_PROFILE_ULTRA" Language="fr_FR">
+<Text>Ultra</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_RESOLUTION" Language="fr_FR">
+<Text>Oyun Çözünürlüğü</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_RESOLUTION_DESCRIPTION" Language="fr_FR">
+<Text>Oyunun çözünürlüğünü seçer. Pencereli modda bu, pencerenin boyutunu belirlerken, tam ekran modunda oyun tüm ekranı dolduracak şekilde uzatılacaktır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_RESOLUTION_RESTRICTION" Language="fr_FR">
+<Text>Geçerli oyun çözünürlüğü ile ayarlanamaz.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_RESTART_WARNING" Language="fr_FR">
+<Text>Uygulanan bazı değişikliklerin etkili olması için uygulamanın yeniden başlatılması gerekir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SCREEN_MODE" Language="fr_FR">
+<Text>Ekran Modu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SCREEN_MODE_DESCRIPTION" Language="fr_FR">
+<Text>Pencereli veya tam ekran görüntülemeyi seçin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SCREEN_MODE_FULLSCREEN" Language="fr_FR">
+<Text>Tam Ekran</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SCREEN_MODE_RESTRICTION" Language="fr_FR">
+<Text>Geçerli ekran modu ile ayarlanamaz.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SCREEN_MODE_WINDOWED" Language="fr_FR">
+<Text>Pencereli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY" Language="fr_FR">
+<Text>Gölge Kalitesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Gölge kalitesini seçer. Yüksek seviyeler daha ayrıntılı gölgeler sağlarken, düşük seviyeler daha hızlıdır ve daha az bellek kullanır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_ULTRA" Language="fr_FR">
+<Text>Ultra" //preemptiv</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHARPENING" Language="fr_FR">
+<Text>Görüntü Keskinliği</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHARPENING_DESCRIPTION" Language="fr_FR">
+<Text>Görüntü üzerinde istediğiniz keskinleştirme seviyesini ayarlayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SHOW_ADVANCED_GRAPHICS_OPTIONS" Language="fr_FR">
+<Text>Gelişmiş Grafik Seçeneklerini Göster</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSAO_QUALITY" Language="fr_FR">
+<Text>AMD FidelityFX Ortam Oklüzyonu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>AMD FidelityFX Ambient Occlusion için kalite seviyesini ayarlayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_OFF" Language="fr_FR">
+<Text>Kapalı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSOVERLAY" Language="fr_FR">
+<Text>Ekran Alanı Yerleşimi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSOVERLAY_DESCRIPTION" Language="fr_FR">
+<Text>Ekran alanı kaplamasını etkinleştirir. Kültür ve hareket sınırları gibi 3B kaplamalar için ayrıntıları artırır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSR" Language="fr_FR">
+<Text>AMD FidelityFX Ekran Alanı Yansımaları</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSR_DESCRIPTION" Language="fr_FR">
+<Text>Oyundaki 3B nesnelerin yansımalarını etkinleştirin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSSHADOWS" Language="fr_FR">
+<Text>Ekran Alanı Gölgeleri</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_SSSHADOWS_DESCRIPTION" Language="fr_FR">
+<Text>Ekran alanı gölgelerini etkinleştirir. Bu, gölgeler için ekstra bir ayrıntı düzeyi sağlar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL" Language="fr_FR">
+<Text>Doku Detayı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_DESCRIPTION" Language="fr_FR">
+<Text>Doku ayrıntı düzeyini seçer. Daha yüksek seviyeler nesneler üzerinde daha fazla ayrıntıya sahipken, daha düşük seviyeler çok daha az bellek kullanır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UNAVAILABLE" Language="fr_FR">
+<Text>Kullanılamıyor</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA" Language="fr_FR">
+<Text>Üst Ölçek/Anti-aliasing Modu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DESCRIPTION" Language="fr_FR">
+<Text>Yükseltme ve/veya kenar yumuşatma modunu seçer. Yükseltme, daha düşük bir çözünürlükte 3D oluşturmaya olanak tanıyarak performansı artırır. Kenar yumuşatma titreşimi azaltır ve daha pürüzsüz bir görüntü üretir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS" Language="fr_FR">
+<Text>NVidia DLSS (Kenar Yumuşatma ve Yükseltme)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_DESCRIPTION" Language="fr_FR">
+<Text>NVidia DLSS'yi Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_DESCRIPTION_LONG" Language="fr_FR">
+<Text>NVIDIA DLSS, mükemmel görüntü kalitesini ve duyarlılığı korurken kare hızlarını artırmak için yapay zekayı kullanır. Bu özellik için GeForce RTX grafik kartı gerekir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_DLAA_DESCRIPTION" Language="fr_FR">
+<Text>NVIDIA DLAA, görüntü kalitesini iyileştirmek için yapay zeka tabanlı bir kenar yumuşatma modudur. Bu özellik için GeForce RTX grafik kartı gerekir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_SUPER_RESOLUTION_DESCRIPTION" Language="fr_FR">
+<Text>Süper Çözünürlük, daha az piksel işleyerek ve yüksek çözünürlüklü kareler elde etmek için yapay zeka kullanarak kare hızlarını artırır Bu özellik için GeForce RTX grafik kartı gerekir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR1" Language="fr_FR">
+<Text>MSAA + AMD FidelityFX Super Resolution 1 (Kenar yumuşatma ve Yükseltme)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR1_DESCRIPTION" Language="fr_FR">
+<Text>AMD FidelityFX Süper Çözünürlük 1 ve MSAA'yı etkinleştirin</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR3" Language="fr_FR">
+<Text>AMD FidelityFX Super Resolution 3 (Kenar yumuşatma ve Yükseltme)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR3_DESCRIPTION" Language="fr_FR">
+<Text>AMD FidelityFX Süper Çözünürlük 3'ü etkinleştirin</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR3_DESCRIPTION_LONG" Language="fr_FR">
+<Text>AMD FidelityFX Super Resolution 3, hızlı kare hızlarında yüksek çözünürlüklü kareler oluşturmak için yüksek kaliteli görüntü yükseltme kullanır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_MSAA" Language="fr_FR">
+<Text>MSAA (Kenar yumuşatma)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_MSAA_DESCRIPTION" Language="fr_FR">
+<Text>Çok Örnekli Kenar Yumuşatmayı Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS" Language="fr_FR">
+<Text>Intel XeSS (Kenar yumuşatma ve Yükseltme)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS_DESCRIPTION" Language="fr_FR">
+<Text>Intel XeSS'i Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS_DESCRIPTION_MINIMUM" Language="fr_FR">
+<Text>Intel Xe Super Sampling (XeSS) teknolojisi, olağanüstü görüntü kalitesiyle daha yüksek performans sunmak için makine öğrenimini kullanır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS_DESCRIPTION_SHORT" Language="fr_FR">
+<Text>Intel Xe Super Sampling (XeSS) teknolojisi, olağanüstü görüntü kalitesiyle daha yüksek performans sunmak için makine öğrenimini kullanır. Donanım hızlandırmalı XeSS, Xe-HPG mikro mimari tabanlı GPU'lar için optimize edilmiştir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_VSYNC" Language="fr_FR">
+<Text>Dikey Senkronizasyonu Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_VSYNC_DESCRIPTION" Language="fr_FR">
+<Text>Ekran yırtılmasını önlemek için dikey senkronizasyonu etkinleştirin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_WATER_QUALITY" Language="fr_FR">
+<Text>Su Kalitesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_WATER_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Su işleme kalitesini seçin. Yüksek daha fazla dalgaya sahiptir ve kırılmayı sağlarken, düşük daha hızlı çalışır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_WATER_QUALITY_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_WATER_QUALITY_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_BALANCED" Language="fr_FR">
+<Text>Dengeli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_BALANCED_DESCRIPTION" Language="fr_FR">
+<Text>Optimum performans ve görüntü kalitesi sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_NATIVE" Language="fr_FR">
+<Text>Yerli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_NATIVE_DESCRIPTION" Language="fr_FR">
+<Text>En yüksek kalitede kenar yumuşatma sağlar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_PERFORMANCE" Language="fr_FR">
+<Text>Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_PERFORMANCE_DESCRIPTION" Language="fr_FR">
+<Text>Genel oyun performansını artırır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_QUALITY" Language="fr_FR">
+<Text>Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Yüksek kaliteli görsel lüks sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_SETTING" Language="fr_FR">
+<Text>Intel XeSS Kalite Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_SETTING_DESCRIPTION" Language="fr_FR">
+<Text>Intel XeSS için kalite düzeyini ayarlayın. Daha yüksek kalite seviyeleri daha iyi görünürken, daha düşük olanlar daha hızlı çalışır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_PERFORMANCE" Language="fr_FR">
+<Text>Ultra Performans</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_PERFORMANCE_DESCRIPTION" Language="fr_FR">
+<Text>En çok genel oyun performansını artırır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY" Language="fr_FR">
+<Text>Ultra Kalite</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY_DESCRIPTION" Language="fr_FR">
+<Text>Çok yüksek kalitede görsel lüks sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY_PLUS" Language="fr_FR">
+<Text>Ultra Kalite Plus</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY_PLUS_DESCRIPTION" Language="fr_FR">
+<Text>En yüksek kalitede görsel lüks sunar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_ADVANCED" Language="fr_FR">
+<Text>Gelişmiş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_ADVISORS" Language="fr_FR">
+<Text>Danışmanlar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_AUTOSAVES" Language="fr_FR">
+<Text>Otomatik Kaydetmeler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_CAMERA" Language="fr_FR">
+<Text>Kamera</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_CONTROLS" Language="fr_FR">
+<Text>Kontroller</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_GAMEPAD" Language="fr_FR">
+<Text>Kontrolör</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_GENERAL" Language="fr_FR">
+<Text>Genel</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_SUBTITLES" Language="fr_FR">
+<Text>Altyazılar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_TIMEOFDAY" Language="fr_FR">
+<Text>Günün Saati</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_TOUCH" Language="fr_FR">
+<Text>Dokunma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_TUTORIAL" Language="fr_FR">
+<Text>Öğretici</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_VOLUME" Language="fr_FR">
+<Text>Cilt</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_GROUP_WIRELESS_CONTROLLER" Language="fr_FR">
+<Text>Kablosuz Kumanda</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HDR_3D_BRIGHTNESS" Language="fr_FR">
+<Text>3D Parlaklık</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HDR_CONFIRM" Language="fr_FR">
+<Text>Değişiklikleri Onayla</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HDR_CONSTRAST" Language="fr_FR">
+<Text>Kontrast</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HDR_DISCARD" Language="fr_FR">
+<Text>Değişiklikleri Atın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HDR_EMBLEM_VISIBILITY" Language="fr_FR">
+<Text>Ayarları üst amblem görünmeyecek ve ortadaki kare zar zor görünecek şekilde yapın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HDR_UI_BRIGHTNESS" Language="fr_FR">
+<Text>Kullanıcı Arayüzü Parlaklığı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HELP_TYPES" Language="fr_FR">
+<Text>Ekran Yardımı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HELP_TYPES_0" Language="fr_FR">
+<Text>Hiçbiri</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HELP_TYPES_1" Language="fr_FR">
+<Text>Yalnızca Uyarılar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HELP_TYPES_2" Language="fr_FR">
+<Text>Tüm Yardım</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_HELP_TYPES_DESCRIPTION" Language="fr_FR">
+<Text>Oyun sırasında hangi yardım türlerinin görüntüleneceği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INPUT_DEVICE" Language="fr_FR">
+<Text>Giriş Aygıtı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INPUT_DEVICE_AUTO" Language="fr_FR">
+<Text>otomatik anahtar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INPUT_DEVICE_DESCRIPTION" Language="fr_FR">
+<Text>Hangi giriş aygıt(lar)ının destekleneceği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INPUT_DEVICE_GAMEPAD" Language="fr_FR">
+<Text>gamepad</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INPUT_DEVICE_KBM" Language="fr_FR">
+<Text>klavye ve fare</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INPUT_DEVICE_TOUCH" Language="fr_FR">
+<Text>Dokunmak</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INSTRUCTIONS" Language="fr_FR">
+<Text>Talimatları Göster</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_INSTRUCTIONS_DESCRIPTION" Language="fr_FR">
+<Text>Oyunun başında ilk kez oynayacak oyuncuya talimatları gösterin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_BACKSPACE" Language="fr_FR">
+<Text>Backspace</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_CANCEL" Language="fr_FR">
+<Text>İptal</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_CAPSLOCK" Language="fr_FR">
+<Text>Büyük harf kilidi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_DELETE" Language="fr_FR">
+<Text>Silme</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_END" Language="fr_FR">
+<Text>Bitiş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_HOME" Language="fr_FR">
+<Text>Ev</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_INSERT" Language="fr_FR">
+<Text>Ekleme</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_LALT" Language="fr_FR">
+<Text>Sol Alt</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_LCONTROL" Language="fr_FR">
+<Text>Sol Kontrol</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_LSHIFT" Language="fr_FR">
+<Text>Sola Kaydırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_0" Language="fr_FR">
+<Text>0 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_1" Language="fr_FR">
+<Text>1 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_2" Language="fr_FR">
+<Text>2 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_3" Language="fr_FR">
+<Text>3 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_4" Language="fr_FR">
+<Text>4 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_5" Language="fr_FR">
+<Text>5 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_6" Language="fr_FR">
+<Text>6 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_7" Language="fr_FR">
+<Text>7 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_8" Language="fr_FR">
+<Text>9 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_9" Language="fr_FR">
+<Text>9 (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_CENTER" Language="fr_FR">
+<Text>Merkez (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_DECIMAL" Language="fr_FR">
+<Text>. (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_DIVIDE" Language="fr_FR">
+<Text>/ (Sayı Pedi)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_MINUS" Language="fr_FR">
+<Text>- (Number Pad)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_MULTIPLY" Language="fr_FR">
+<Text>* (Sayı Tamponu)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NP_PLUS" Language="fr_FR">
+<Text>+ (Sayı Tamponu)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_NUMLOCK" Language="fr_FR">
+<Text>Num Kilidi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_PAGEDOWN" Language="fr_FR">
+<Text>Sayfa Aşağı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_PAGEUP" Language="fr_FR">
+<Text>Sayfa Yukarı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_PAUSE" Language="fr_FR">
+<Text>Duraklat</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_PRINTSCREEN" Language="fr_FR">
+<Text>Baskı Ekranı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_RALT" Language="fr_FR">
+<Text>Sağ Alt</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_RCONTROL" Language="fr_FR">
+<Text>Sağ Kontrol</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_RSHIFT" Language="fr_FR">
+<Text>Sağa Kaydırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_SCROLLLOCK" Language="fr_FR">
+<Text>Kaydırma Kilidi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_SPACE" Language="fr_FR">
+<Text>Uzay</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_KEY_TAB" Language="fr_FR">
+<Text>Tab</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LANGUAGE" Language="fr_FR">
+<Text>Dil</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LANGUAGE_AUDIO" Language="fr_FR">
+<Text>Konuştum:</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LANGUAGE_DESCRIPTION" Language="fr_FR">
+<Text>Ses ve metin için hangi dilin kullanılacağını seçin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LANGUAGE_DISPLAY" Language="fr_FR">
+<Text>Göster:</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LANGUAGE_TEXT" Language="fr_FR">
+<Text>Dil Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LOCK_MOUSE" Language="fr_FR">
+<Text>Fareyi Pencereye Kilitle</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_LOCK_MOUSE_DESCRIPTION" Language="fr_FR">
+<Text>Fareyi oyunun pencere bölgesi içinde tutun.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MINIMAP_SIZE" Language="fr_FR">
+<Text>Minimap Boyutu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MINIMAP_SIZE_DESCRIPTION" Language="fr_FR">
+<Text>HUD'ınızda hangi boyutta mini harita istiyorsunuz?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MINIMAP_SIZE_LARGE" Language="fr_FR">
+<Text>büyük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MINIMAP_SIZE_MEDIUM" Language="fr_FR">
+<Text>orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MINIMAP_SIZE_SMALL" Language="fr_FR">
+<Text>küçük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_EXTREME" Language="fr_FR">
+<Text>Aşırı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_HIGH" Language="fr_FR">
+<Text>Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_LOW" Language="fr_FR">
+<Text>Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_NONE" Language="fr_FR">
+<Text>Hiçbiri</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_OFF" Language="fr_FR">
+<Text>Kapalı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_VERY_HIGH" Language="fr_FR">
+<Text>Çok Yüksek</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MISC_VERY_LOW" Language="fr_FR">
+<Text>Çok Düşük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_L" Language="fr_FR">
+<Text>Sol Fare</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_M" Language="fr_FR">
+<Text>Orta Fare</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_R" Language="fr_FR">
+<Text>Sağ Fare</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_WHEEL_DOWN" Language="fr_FR">
+<Text>Fare Tekerleği Aşağı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_WHEEL_SPEED" Language="fr_FR">
+<Text>Fare Tekerleği Hızı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_WHEEL_SPEED_DESCRIPTION" Language="fr_FR">
+<Text>Fare tekerleğinin hızını ayarlayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_WHEEL_UP" Language="fr_FR">
+<Text>Fare Tekerleği Yukarı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_X1" Language="fr_FR">
+<Text>Fare X1</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_MOUSE_X2" Language="fr_FR">
+<Text>Fare X2</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NARRATE_CHAT" Language="fr_FR">
+<Text>Sohbet Anlat</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NARRATE_CHAT_DESCRIPTION" Language="fr_FR">
+<Text>Çok oyunculu sohbet mesajları alındığında otomatik olarak konuşun.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NARRATE_HOVER" Language="fr_FR">
+<Text>Hover Üzerinde Anlat</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NARRATE_HOVER_DELAY" Language="fr_FR">
+<Text>Hover Gecikmesinde Anlat</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NARRATE_HOVER_DELAY_DESCRIPTION" Language="fr_FR">
+<Text>Üzerine gelinen metin konuşulmadan önce milisaniye cinsinden geçen süre.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NARRATE_HOVER_DESCRIPTION" Language="fr_FR">
+<Text>Üzerine gelindiğinde fare imlecinin altındaki metni otomatik olarak konuşur.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NO" Language="fr_FR">
+<Text>Hayır</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NONE_IN_CATEGORY" Language="fr_FR">
+<Text>Kategoride doldurulmuş seçenek yok.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NOTIFICATION_CAMERA_PAN" Language="fr_FR">
+<Text>Bildirimlere otomatik kaydırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_NOTIFICATION_CAMERA_PAN_DESCRIPTION" Language="fr_FR">
+<Text>Kamerayı otomatik olarak bir sonraki tur engelleme bildirimine kaydırın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_A" Language="fr_FR">
+<Text>A</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_A_NX" Language="fr_FR">
+<Text>A</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_A_PS" Language="fr_FR">
+<Text>X</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_B" Language="fr_FR">
+<Text>B</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_B_NX" Language="fr_FR">
+<Text>B</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_B_PS" Language="fr_FR">
+<Text>Daire</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_BACK" Language="fr_FR">
+<Text>Geri</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_BACK_NX" Language="fr_FR">
+<Text>Eksi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_BACK_PS" Language="fr_FR">
+<Text>Dokunmatik Yüzey</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_DOWN" Language="fr_FR">
+<Text>D-pad aşağı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_DOWN_NX" Language="fr_FR">
+<Text>D-pad aşağı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_DOWN_PS" Language="fr_FR">
+<Text>D-pad aşağı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_LEFT" Language="fr_FR">
+<Text>D-pad sol</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_LEFT_NX" Language="fr_FR">
+<Text>D-pad sol</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_LEFT_PS" Language="fr_FR">
+<Text>D-pad sol</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_RIGHT" Language="fr_FR">
+<Text>D-pad sağ</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_RIGHT_NX" Language="fr_FR">
+<Text>D-pad sağ</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_RIGHT_PS" Language="fr_FR">
+<Text>D-pad sağ</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_UP" Language="fr_FR">
+<Text>D-pad yukarı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_UP_NX" Language="fr_FR">
+<Text>D-pad yukarı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_DPAD_UP_PS" Language="fr_FR">
+<Text>D-pad yukarı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LSHOULDER" Language="fr_FR">
+<Text>Sol tampon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LSHOULDER_NX" Language="fr_FR">
+<Text>Sol tampon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LSHOULDER_PS" Language="fr_FR">
+<Text>Sol tampon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS" Language="fr_FR">
+<Text>Sol çubuk</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS_NX" Language="fr_FR">
+<Text>Sol çubuk</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS_PS" Language="fr_FR">
+<Text>Sol çubuk</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS" Language="fr_FR">
+<Text>Sol çubuk tıklaması</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS_NX" Language="fr_FR">
+<Text>Sol çubuk tıklaması</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS_PS" Language="fr_FR">
+<Text>Sol çubuk tıklaması</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTRIGGER" Language="fr_FR">
+<Text>Sol tetik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTRIGGER_NX" Language="fr_FR">
+<Text>Sol tetik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_LTRIGGER_PS" Language="fr_FR">
+<Text>Sol tetik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RSHOULDER" Language="fr_FR">
+<Text>Sağ tampon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RSHOULDER_NX" Language="fr_FR">
+<Text>Sağ tampon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RSHOULDER_PS" Language="fr_FR">
+<Text>Sağ tampon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS" Language="fr_FR">
+<Text>Sağ çubuk</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS_NX" Language="fr_FR">
+<Text>Sağ çubuk</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS_PS" Language="fr_FR">
+<Text>Sağ çubuk</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS" Language="fr_FR">
+<Text>Sağ çubuk tıklaması</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS_NX" Language="fr_FR">
+<Text>Sağ çubuk tıklaması</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS_PS" Language="fr_FR">
+<Text>Sağ çubuk tıklaması</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTRIGGER" Language="fr_FR">
+<Text>Sağ tetik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTRIGGER_NX" Language="fr_FR">
+<Text>Sağ tetik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_RTRIGGER_PS" Language="fr_FR">
+<Text>Sağ tetik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_START" Language="fr_FR">
+<Text>Başlangıç</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_START_NX" Language="fr_FR">
+<Text>Artı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_START_PS" Language="fr_FR">
+<Text>Seçenekler</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_X" Language="fr_FR">
+<Text>X</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_X_NX" Language="fr_FR">
+<Text>X</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_X_PS" Language="fr_FR">
+<Text>Kare</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_Y" Language="fr_FR">
+<Text>Y</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_Y_NX" Language="fr_FR">
+<Text>Y</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PAD_Y_PS" Language="fr_FR">
+<Text>Üçgen</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY" Language="fr_FR">
+<Text>Dünya Araç İpucu gecikmesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_DESCRIPTION" Language="fr_FR">
+<Text>Dünya karolarında bir araç ipucu göstermeden önce kaç saniye bekleneceği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PROMOTIONS" Language="fr_FR">
+<Text>Tanıtım İçeriğini Göster</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PROMOTIONS_DESCRIPTION" Language="fr_FR">
+<Text>Civilization ekibinin tanıtım içeriğini gösterir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_QUICK_COMBAT" Language="fr_FR">
+<Text>Hızlı Savaş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_QUICK_COMBAT_DESCRIPTION" Language="fr_FR">
+<Text>Çatışmayı çözmek için hızlı animasyonlar kullanmayı değiştirin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_QUICK_MOVEMENT" Language="fr_FR">
+<Text>Hızlı Savaş</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_QUICK_MOVEMENT_DESCRIPTION" Language="fr_FR">
+<Text>Kareler arasında hareket eden birimler için hızlı hareketi kullanmayı açın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RELOAD_WARN_ABANDON_CHANGES" Language="fr_FR">
+<Text>Değişiklikleri Terk Et</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RELOAD_WARN_BODY" Language="fr_FR">
+<Text>Değiştirilen bir veya daha fazla seçenek, değişiklikleri göstermek için oyunun kısa süreliğine yeniden yüklenmesine neden olacaktır. Yerinizi kaybetmezsiniz, ancak devam etmekte olan eylemleri yeniden başlatmanız gerekebilir. Devam etmek istiyor musunuz?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RELOAD_WARN_CONTINUE" Language="fr_FR">
+<Text>Devam et</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RELOAD_WARN_TITLE" Language="fr_FR">
+<Text>Doldurayım mı?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REMAP_CONTROLLER" Language="fr_FR">
+<Text>Kontroller</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REMAP_CONTROLLER_DESCRIPTION" Language="fr_FR">
+<Text>Giriş eşlemesini yapılandırın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REMAP_CONTROLLER_TEXT" Language="fr_FR">
+<Text>Yapılandırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REMAP_KBM" Language="fr_FR">
+<Text>Klavye + Fare</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REMAP_KBM_DESCRIPTION" Language="fr_FR">
+<Text>Klavye ve fare kontrollerini yapılandırın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REMAP_KBM_TEXT" Language="fr_FR">
+<Text>Yapılandırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REPLACE_HOLD_TO_DRAG" Language="fr_FR">
+<Text>Sürüklenebiliri tıklama ile değiştirin</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REPLACE_HOLD_TO_DRAG_DESCRIPTION" Language="fr_FR">
+<Text>Sürükle ve tut işlevini tıklama, sürükleme ve bırakma ile değiştirin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RESET_TO_DEFAULTS" Language="fr_FR">
+<Text>Varsayılanlara Sıfırla</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RESTART_BODY" Language="fr_FR">
+<Text>Değiştirilen bir veya daha fazla seçenek oyun yeniden başlatılana kadar etkili olmayacaktır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RESTART_TITLE" Language="fr_FR">
+<Text>Yeniden Başlatma Gerekli</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REVERT" Language="fr_FR">
+<Text>Geri Dön</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_REVERT_DESCRIPTION" Language="fr_FR">
+<Text>Yapılan değişiklikleri geri almak istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RIBBON_DISPLAY" Language="fr_FR">
+<Text>Her Zaman Şerit Verimlerini Göster</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RIBBON_DISPLAY_DESCRIPTION" Language="fr_FR">
+<Text>Oyuncuların verimlerini her zaman HUD şeridinde gösterin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RUMBLE" Language="fr_FR">
+<Text>Kontrolör Gürültüsü</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RUMBLE_DESCRIPTION" Language="fr_FR">
+<Text>Kontrol cihazının gürültü özelliğini etkinleştirin veya devre dışı bırakın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RUMBLE_FEATURE" Language="fr_FR">
+<Text>Rumble Özelliği</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_RUMBLE_FEATURE_DESCRIPTION" Language="fr_FR">
+<Text>Gümbürtü Özelliği - gümbürtü özelliğini etkinleştirin veya devre dışı bırakın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCALE_UI" Language="fr_FR">
+<Text>Ölçek Kullanıcı Arayüzü</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCALE_UI_1" Language="fr_FR">
+<Text>1x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCALE_UI_2" Language="fr_FR">
+<Text>2x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCALE_UI_4" Language="fr_FR">
+<Text>4x</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCALE_UI_AUTO" Language="fr_FR">
+<Text>otomatik</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCALE_UI_DESCRIPTION" Language="fr_FR">
+<Text>Tüm kullanıcı arayüzünü ölçeklendirin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE" Language="fr_FR">
+<Text>Ekran Boyutu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_ADJUST_HORIZONTALLY" Language="fr_FR">
+<Text>Ekranı yatay olarak ayarlayın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_ADJUST_VERTICALLY" Language="fr_FR">
+<Text>Ekranı dikey olarak ayarlama</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_DESCRIPTION" Language="fr_FR">
+<Text>Çizilecek ekran için neyin güvenli alan olarak kabul edileceğini yapılandırın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_INSTRUCTIONS_1" Language="fr_FR">
+<Text>Güvenli alan için ekran boyutunu ayarlayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_INSTRUCTIONS_2" Language="fr_FR">
+<Text>Anahatların görünür olduğundan emin olun.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_INSTRUCTIONS_3" Language="fr_FR">
+<Text>Çizgilerin içindeki her şey oyun için gösterilecektir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SCREEN_SIZE_TEXT" Language="fr_FR">
+<Text>Yapılandırma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SEARCH" Language="fr_FR">
+<Text>Arama</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SHOW_INTRO_VIDEO" Language="fr_FR">
+<Text>Tanıtım Videosunu Göster</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SHOW_INTRO_VIDEO_DESCRIPTION" Language="fr_FR">
+<Text>Başlangıçta tanıtım videosunu gösterin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES" Language="fr_FR">
+<Text>Altyazıları Göster</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_BACKGROUND_OPACITY" Language="fr_FR">
+<Text>Arka Plan Opaklığı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_BACKGROUND_OPACITY_DESCRIPTION" Language="fr_FR">
+<Text>Altyazı metni için arka planın ne kadar şeffaf olacağını seçin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_DESCRIPTION" Language="fr_FR">
+<Text>Seslendirilmiş sinematik sekanslar sırasında altyazıları gösterir.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_BORDER" Language="fr_FR">
+<Text>Metin Kenarlığı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_BORDER_DESCRIPTION" Language="fr_FR">
+<Text>Altyazı metninin etrafında ne kadar güçlü bir kenarlık olduğu.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_COLOR" Language="fr_FR">
+<Text>Metin Rengi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_COLOR_DESCRIPTION" Language="fr_FR">
+<Text>Altyazılar için metinde hangi renk kullanılır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE" Language="fr_FR">
+<Text>Metin Boyutu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_DESCRIPTION" Language="fr_FR">
+<Text>Altyazılar için metnin ne kadar büyük olduğu.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_LARGE" Language="fr_FR">
+<Text>Büyük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_SMALL" Language="fr_FR">
+<Text>Küçük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TEXT_SCROLLING_SPEED" Language="fr_FR">
+<Text>Metin Kaydırma Hızı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TEXT_SCROLLING_SPEED_DESCRIPTION" Language="fr_FR">
+<Text>Metnin ne kadar hızlı otomatik kaydırılacağı.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TEXT_TO_SPEECH" Language="fr_FR">
+<Text>Konuşma Metni</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOOLTIP_DELAY" Language="fr_FR">
+<Text>Araç ipucu gecikmesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOOLTIP_DELAY_DESCRIPTION" Language="fr_FR">
+<Text>Kullanıcı arayüzünde bir araç ipucu göstermeden önce kaç saniye bekleneceği.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOUCH_INPUT_ENABLE" Language="fr_FR">
+<Text>Dokunmatik Giriş Etkin</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOUCH_INPUT_ENABLE_DESCRIPTION" Language="fr_FR">
+<Text>Oyunda dokunmatik giriş etkinleştirilmeli mi?</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOUCH_INPUT_NOT_AVAILABLE" Language="fr_FR">
+<Text>Bu cihaz dokunmatik girişi kabul edecek şekilde yapılandırılmamıştır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOUCH_INPUT_TOOLTIP_DELAY" Language="fr_FR">
+<Text>Dokunmatik Araç İpucu Gecikmesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOUCH_INPUT_TOOLTIP_DESCRIPTION" Language="fr_FR">
+<Text>Dokunma kullanılırken araç ipucundaki gecikmeyi etkiler.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TUNER" Language="fr_FR">
+<Text>Ayarlayıcı (Başarıları Devre Dışı Bırakır)</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TUNER_DESCRIPTION" Language="fr_FR">
+<Text>Modlama ayarlayıcısını açın. Bu başarımları devre dışı bırakacaktır.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TUTORIALLEVEL" Language="fr_FR">
+<Text>Eğitim Seviyesi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TUTORIALLEVEL_DESCRIPTION" Language="fr_FR">
+<Text>Oyunu oynarken kaç seviye detaylı, öğretici bilgi almak istediğinizi belirtin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_AUTO_SCALE" Language="fr_FR">
+<Text>Yüksek Çözünürlüklü UI Ölçeklendirmeyi Etkinleştir</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_AUTO_SCALE_DESCRIPTION" Language="fr_FR">
+<Text>Yüksek ekran çözünürlüklerinde kullanıcı arayüzünün boyutunu ölçeklendirin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_EXPERIENCE" Language="fr_FR">
+<Text>Görüntüleme Deneyimi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_EXPERIENCE_CONSOLE" Language="fr_FR">
+<Text>Televizyon</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_EXPERIENCE_DESCRIPTION" Language="fr_FR">
+<Text>Oyunu görüntülemek için ne kullandığınıza bağlı olarak görüntüleme deneyimini optimize eder.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_EXPERIENCE_DESKTOP" Language="fr_FR">
+<Text>Masaüstü veya Dizüstü Bilgisayar</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_EXPERIENCE_HANDHELD" Language="fr_FR">
+<Text>El Tipi</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_GLOBAL_SCALE" Language="fr_FR">
+<Text>UI Ölçeği</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_GLOBAL_SCALE_DESCRIPTION" Language="fr_FR">
+<Text>Kullanıcı arayüzü öğelerinin boyutunu ayarlayın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_HDR" Language="fr_FR">
+<Text>UI Parlaklığını Kalibre Etme</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_HDR_DESCRIPTION" Language="fr_FR">
+<Text>Bu konteyner, kullanıcı arayüzünün oyunda nasıl görüneceğinin bir örneğidir. Bunu, kullanıcı arayüzünün kullanıcı arayüzü parlaklık seviyelerinden nasıl etkileneceğine dair bir referans olarak kullanın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE" Language="fr_FR">
+<Text>Yazı Tipi Ölçeği</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE_DESCRIPTION" Language="fr_FR">
+<Text>Metnin hangi boyutta görüntülenmesini istediğinizi seçin.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE_EXTRA_LARGE" Language="fr_FR">
+<Text>Ekstra Büyük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE_EXTRA_SMALL" Language="fr_FR">
+<Text>Ekstra Küçük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE_LARGE" Language="fr_FR">
+<Text>Büyük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE_MEDIUM" Language="fr_FR">
+<Text>Orta</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UI_SCALE_SMALL" Language="fr_FR">
+<Text>Küçük</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UNITCYCLE_REMAININGMOVES" Language="fr_FR">
+<Text>Birim Döngüsü Kalan Hareket</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_UNITCYCLE_REMAININGMOVES_DESCRIPTION" Language="fr_FR">
+<Text>Diğer tüm sıra engelleme eylemleri yapıldıktan sonra, kalan hareket puanlarına sahip birimler arasında geçiş yapın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_USE_NARRATOR" Language="fr_FR">
+<Text>Windows Anlatıcı'yı kullanma</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_USE_NARRATOR_DESCRIPTION" Language="fr_FR">
+<Text>Yüklenen metni okumak için yerleşik Windows Anlatıcı'yı kullanın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_USE_RGB" Language="fr_FR">
+<Text>RGB Aydınlatma Kullanın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_USE_RGB_DESCRIPTION" Language="fr_FR">
+<Text>Oyun ile uyumlu 3. parti RGB aydınlatma kullanın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_USE_SCREEN_READER" Language="fr_FR">
+<Text>Ekran Okuyucu Kullanın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_USE_SCREEN_READER_DESCRIPTION" Language="fr_FR">
+<Text>Yüklenen metni okumak için harici bir ekran okuyucu kullanın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_VIBRATION" Language="fr_FR">
+<Text>Titreşim</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_VIBRATION_DESCRIPTION" Language="fr_FR">
+<Text>Titreşim - titreşimi etkinleştirin veya devre dışı bırakın.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_WARN_MOD" Language="fr_FR">
+<Text>MOD uyumluluğu hakkında uyarın</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_WARN_MOD_DESCRIPTION" Language="fr_FR">
+<Text>MOD'lar yüklenirken uyumluluk sorunları hakkında uyar.</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_YES" Language="fr_FR">
+<Text>Evet</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ZOOM_SPEED" Language="fr_FR">
+<Text>Yakınlaştırma Hızı</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_ZOOM_SPEED_DESCRIPTION" Language="fr_FR">
+<Text>Kameranın ne kadar hızlı yakınlaştırdığı.</Text>
+</Replace>
+<Replace Tag="LOC_PANEL_X_CLOSE" Language="fr_FR">
+<Text>Bunu kapatın</Text>
+</Replace>
+<Replace Tag="LOC_PANEL_X_MINIMIZE" Language="fr_FR">
+<Text>Bunu Minimize/Maksimize Et</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_EOS" Language="fr_FR">
+<Text>Epic Games Mağazası</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_GAMECENTER" Language="fr_FR">
+<Text>Nintendo Switch</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_GENERIC_CROSSPLAY" Language="fr_FR">
+<Text>Çapraz Oyun Platformu</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_NX" Language="fr_FR">
+<Text>Nintendo Switch</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_PLAYSTATION" Language="fr_FR">
+<Text>PlayStation</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_STEAM" Language="fr_FR">
+<Text>Buhar</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_T2GP" Language="fr_FR">
+<Text>Take-Two</Text>
+</Replace>
+<Replace Tag="LOC_PLATFORM_ICON_XBOX" Language="fr_FR">
+<Text>Xbox</Text>
+</Replace>
+<Replace Tag="LOC_PLOT_MOVE" Language="fr_FR">
+<Text>Navigasyon</Text>
+</Replace>
+<Replace Tag="LOC_PLOT_MOVE_HELP" Language="fr_FR">
+<Text>Çizim Vurgusunu Harita Üzerinde Taşıma</Text>
+</Replace>
+<Replace Tag="LOC_PREVIOUS_SELECT" Language="fr_FR">
+<Text>Önceki Seçim</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_ALL_EVENTS" Language="fr_FR">
+<Text>Tüm Etkinlikler</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_CHALLENGE_CLASS_FOUNDATION" Language="fr_FR">
+<Text>Vakıf</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_CHALLENGE_CLASS_LEADER" Language="fr_FR">
+<Text>Lider</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_CHALLENGE_COMPLETION_TOTAL" Language="fr_FR">
+<Text>Toplam</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_CHALLENGE_HELP" Language="fr_FR">
+<Text>Sıralama Türüne Atla</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_COMPLETION" Language="fr_FR">
+<Text>Tamamlama</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_CURRENT_XP_TEXT" Language="fr_FR">
+<Text>Güncel XP</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_EQUIPPED" Language="fr_FR">
+<Text>Donanımlı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_GAME" Language="fr_FR">
+<Text>Oyun</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_GENERIC_TURNS" Language="fr_FR">
+<Text>Dönüşler</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_HOF_DIFFICULTY_ALL" Language="fr_FR">
+<Text>Tümü</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_HOF_DIFFICULTY_HELP" Language="fr_FR">
+<Text>Zorluk filtresine atla</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_HOF_SPEED_HELP" Language="fr_FR">
+<Text>Oyun Hızı filtresine atla</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_LEGEND_PROGRESS" Language="fr_FR">
+<Text>Efsane İlerleme</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_LOCKED" Language="fr_FR">
+<Text>Kilitli</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_MARK_AS_SEEN" Language="fr_FR">
+<Text>Tümünü Görüldü Olarak İşaretle</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_NEXT_LEVEL_XP_TEXT" Language="fr_FR">
+<Text>Sonraki Seviye XP</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_NEXT_QUEST" Language="fr_FR">
+<Text>Bir sonraki meydan okuma:</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_BODY_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel ilerlemeniz 2K hesabınızla bağlantılı olanla çakışıyor. Devam etmek için bir sürüm seçmeniz gerekecektir. Lütfen bu cihazla ve 2K hesabınızla senkronize edilmek üzere saklayacağınız ilerlemeyi seçin.</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_BODY_CONSOLE_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel ilerlemeniz 2K hesabınızla bağlantılı olanla çakışıyor. Devam etmek için bir sürüm seçmeniz gerekecek. Lütfen bu konsol ve 2K hesabınızla senkronize edilmek üzere saklayacağınız ilerlemeyi seçin.</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_CHOICE_1_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel İlerleme</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_CHOICE_2_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>2K Bağlantılı İlerleme</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_COMING_SOON" Language="fr_FR">
+<Text>Çok yakında...</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_TITLE_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>2K Bağlantılı Hesap İlerleme Çatışması</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_BADGE_DATE" Language="fr_FR">
+<Text>Tamamlandı 11/23/29</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_BADGE_DESCRIPTION" Language="fr_FR">
+<Text>Doğa Harikaları Etkinliği tamamlandı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_BADGE_NAME" Language="fr_FR">
+<Text>Mucize Dolu Günler</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_BANNER_NAME" Language="fr_FR">
+<Text>Warmaster</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_TITLE_DATE" Language="fr_FR">
+<Text>Tamamlandı 11/25/29</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_TITLE_DESCRIPTION" Language="fr_FR">
+<Text>Cadılar Bayramı Etkinliği sırasında kazanıldı. Bu, 2013 yılında piyasaya sürülen bir Firaxis oyunuydu.</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SAMPLE_TITLE_NAME" Language="fr_FR">
+<Text>Perili Cadılar Bayramı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SELECT_BADGE" Language="fr_FR">
+<Text>Rozet Seçiniz</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SELECT_BANNER" Language="fr_FR">
+<Text>Banner Seçiniz</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SELECT_BORDER" Language="fr_FR">
+<Text>Kenarlık Seçin</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SELECT_COLOR" Language="fr_FR">
+<Text>Renk Seçiniz</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_SELECT_TITLE" Language="fr_FR">
+<Text>Başlık Seçiniz</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_BADGES" Language="fr_FR">
+<Text>Rozet</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_BANNERS" Language="fr_FR">
+<Text>Banner</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_BORDERS" Language="fr_FR">
+<Text>Sınır</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_CHALLENGES" Language="fr_FR">
+<Text>Zorluklar</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_CIVILIZATIONS" Language="fr_FR">
+<Text>Medeniyetler</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_COLORS" Language="fr_FR">
+<Text>Renk</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_CUSTOMIZE" Language="fr_FR">
+<Text>Özelleştirme</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_HALL_OF_FAME" Language="fr_FR">
+<Text>Şöhretler Salonu</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_HISTORY" Language="fr_FR">
+<Text>Tarih</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_LEADERBOARDS" Language="fr_FR">
+<Text>Liderlik Tabloları</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_LEADERS" Language="fr_FR">
+<Text>Liderler</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_OVERVIEW" Language="fr_FR">
+<Text>Genel</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_PROGRESS" Language="fr_FR">
+<Text>İlerleme</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TAB_TITLES" Language="fr_FR">
+<Text>Başlık</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_AMINA" Language="fr_FR">
+<Text>Savaşçı-Kraliçe</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_ASHOKA_RENOUNCER" Language="fr_FR">
+<Text>Dünya Yenileyici</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_AUGUSTUS" Language="fr_FR">
+<Text>İlk Vatandaş</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_BENJAMIN_FRANKLIN" Language="fr_FR">
+<Text>First American</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_CATHERINE" Language="fr_FR">
+<Text>Kuzey Yıldızı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_CHARLEMAGNE" Language="fr_FR">
+<Text>Avrupa'nın Babası</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_CONFUCIUS" Language="fr_FR">
+<Text>Büyük Bilge</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_DEFAULT" Language="fr_FR">
+<Text>Yeni Bir Çağ</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_DLC_DELUXEPACK" Language="fr_FR">
+<Text>Ufkun Ötesinde</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_DLC_FOUNDERPACK" Language="fr_FR">
+<Text>Medeniyetin Kurucusu</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_DLC_SEASONPASS_1" Language="fr_FR">
+<Text>Crossroads Traveler</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_DLC_SEASONPASS_2" Language="fr_FR">
+<Text>Haklı Hükümdar</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_1" Language="fr_FR">
+<Text>Karalayan Kâtip</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_10" Language="fr_FR">
+<Text>Efsane</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_2" Language="fr_FR">
+<Text>Sayın Vali</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_3" Language="fr_FR">
+<Text>Seçilmiş Şef</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_4_1" Language="fr_FR">
+<Text>Bold Baron</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_4_2" Language="fr_FR">
+<Text>Cesur Barones</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_5" Language="fr_FR">
+<Text>Muzaffer Genel Vali</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_6" Language="fr_FR">
+<Text>Savvy Sovereign</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_7_1" Language="fr_FR">
+<Text>Yüce İmparator</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_7_2" Language="fr_FR">
+<Text>Yüce İmparatoriçe</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_8" Language="fr_FR">
+<Text>Etkileyici Ölümsüz</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FOUNDATION_9" Language="fr_FR">
+<Text>Meydan Okuyan İlah</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_FRIEDRICH_OBLIQUE" Language="fr_FR">
+<Text>Yaşlı Fritz</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_HARRIET_TUBMAN" Language="fr_FR">
+<Text>Kondüktör</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_HATSHEPSUT" Language="fr_FR">
+<Text>Güneşin Sesi</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_HIMIKO_QUEEN_OF_WA" Language="fr_FR">
+<Text>Wa Kraliçesi</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_IBN_BATTUTA" Language="fr_FR">
+<Text>Muhteşem Gezgin</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_ISABELLA" Language="fr_FR">
+<Text>Altın Çağ Hükümdarı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_JOSE_RIZAL" Language="fr_FR">
+<Text>Ulusal Kahraman</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_LAFAYETTE" Language="fr_FR">
+<Text>İki Dünyanın Kahramanı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_MACHIAVELLI" Language="fr_FR">
+<Text>Prens</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_PACHACUTI" Language="fr_FR">
+<Text>Toprak Çalkalayıcı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_TRUNG_TRAC" Language="fr_FR">
+<Text>Asi Kraliçe</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TITLE_XERXES_KING_OF_KINGS" Language="fr_FR">
+<Text>Kralların Kralı</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_VICTORIES" Language="fr_FR">
+<Text>Zaferler</Text>
+</Replace>
+<Replace Tag="LOC_RADIAL_MENU_TITLE_TEXT" Language="fr_FR">
+<Text>Radyal Menü</Text>
+</Replace>
+<Replace Tag="LOC_RANDOM_LEADER" Language="fr_FR">
+<Text>Rastgele Lider</Text>
+</Replace>
+<Replace Tag="LOC_REMAP_FOW_FOUNDER" Language="fr_FR">
+<Text>Founders Edition Savaş Sisi Karoları</Text>
+</Replace>
+<Replace Tag="LOC_REMAP_PALACE_FOUNDER" Language="fr_FR">
+<Text>Founders Edition Saray</Text>
+</Replace>
+<Replace Tag="LOC_REMAP_SCOUT_FOUNDER" Language="fr_FR">
+<Text>Deluxe Edition Scout Kostümü</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_DEFAULT" Language="fr_FR">
+<Text>Oyun Yapılandırması</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_INFO_TITLE" Language="fr_FR">
+<Text>Yapılandırma Bilgisi</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_LOAD_PANEL_SUBTITLE" Language="fr_FR">
+<Text>Yük Konfigürasyonu</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_LOAD_PANEL_TITLE" Language="fr_FR">
+<Text>Kaydedilmiş bir yapılandırmayı yükleme</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_NEW_CONFIG" Language="fr_FR">
+<Text>Yeni Yapılandırma</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_SAVE_PANEL_SUBTITLE" Language="fr_FR">
+<Text>Yapılandırmayı Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_CONFIG_SAVE_PANEL_TITLE" Language="fr_FR">
+<Text>Oyun yapılandırmanızı kaydedin</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_AGETRANSITIONSAVES" Language="fr_FR">
+<Text>Çağ Geçişleri</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_AUTOSAVES" Language="fr_FR">
+<Text>Otomatik Kaydetmeler</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_BACK_BUTTON" Language="fr_FR">
+<Text>Geri</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_COMPLETE_2K_ACCOUNT" Language="fr_FR">
+<Text>2K Hesabınızı tamamlayın</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIG_TEXT" Language="fr_FR">
+<Text>yapılandırma</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_BODY" Language="fr_FR">
+<Text>Bu kayıtlı oyunu yüklemek istediğinizden emin misiniz? Kaydedilmemiş tüm ilerleme kaybolacaktır.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_IMPORT_BODY" Language="fr_FR">
+<Text>Bu kayıt dosyası sizin tarafınızdan oluşturulmadı. Mücadeleler gibi bazı ilerlemeler takip edilmeyecektir. Bu kaydı yükleyeyim mi?</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_IMPORT_TITLE" Language="fr_FR">
+<Text>İçe Aktarılanları Yükle Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_TITLE" Language="fr_FR">
+<Text>Yükle Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIRM_OVERWRITE_TITLE" Language="fr_FR">
+<Text>Üzerine Yaz Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONNECT_2K_ACCOUNT" Language="fr_FR">
+<Text>2K Hesap Bağlantısı</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_2K_CLOUD_SERVICE_1" Language="fr_FR">
+<Text>Crossplay kaydetme hizmeti kullanılamıyor</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_2K_CLOUD_SERVICE_2" Language="fr_FR">
+<Text>Daha sonra tekrar deneyin</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_SSO_1" Language="fr_FR">
+<Text>Erişim için 2K hesabınızı bağlayın</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_SSO_1_A" Language="fr_FR">
+<Text>Erişmek için 2K hesabınızı tamamlayın</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_SSO_2" Language="fr_FR">
+<Text>Crossplay kayıtlarınız</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CROSSPLAYSAVES" Language="fr_FR">
+<Text>Çapraz Oyun</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETE_BUTTON" Language="fr_FR">
+<Text>Silme</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETE_DIALOG_TITLE" Language="fr_FR">
+<Text>Sil Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETE_ERROR" Language="fr_FR">
+<Text>Dosya silinemiyor.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETE_ERROR_TITLE" Language="fr_FR">
+<Text>Dosya silinirken hata oluştu</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETE_NAVTRAY" Language="fr_FR">
+<Text>Silme</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_ADDITIONAL_CONTENT_TITLE" Language="fr_FR">
+<Text>İndirilebilir İçerik</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_AGE" Language="fr_FR">
+<Text>Çağ:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_DIFFERENT_PLAYER_SAVE" Language="fr_FR">
+<Text>Bu oyuncu tarafından kaydedilmediyse, mücadeleler sayılmayacaktır</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_DIFFICULTY" Language="fr_FR">
+<Text>Zorluk derecesi:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_MAP_INFO_TITLE" Language="fr_FR">
+<Text>Oyun Seçenekleri</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_MAP_TYPE" Language="fr_FR">
+<Text>Harita Türü:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_REQUIRED_CONTENT_TITLE" Language="fr_FR">
+<Text>Gerekli İçerik</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_RULE_SET" Language="fr_FR">
+<Text>Kural Seti:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_SAVED_BY_PLATFORM" Language="fr_FR">
+<Text>Platform Tarafından Kaydedildi:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_SAVED_BY_VERSION" Language="fr_FR">
+<Text>Versiyona Göre Kaydedildi:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_SPEED" Language="fr_FR">
+<Text>Oyun hızı:</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_FILTER_BUTTON" Language="fr_FR">
+<Text>Filtreler</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_GAME_TEXT" Language="fr_FR">
+<Text>oyun</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_LOAD_BUTTON" Language="fr_FR">
+<Text>Yük</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_LOAD_NAVTRAY" Language="fr_FR">
+<Text>Yük</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_LOCALSAVE" Language="fr_FR">
+<Text>Yerel</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_LOCATION_FULL_DIALOG" Language="fr_FR">
+<Text>Yeterli depolama alanı yok. [N]Yeni bir oyun kaydetmek için biraz yer açın.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_LOCATION_FULL_DIALOG_TITLE" Language="fr_FR">
+<Text>Depo dışı</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_NEW_SAVE" Language="fr_FR">
+<Text>Yeni Tasarruf</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_OVERWRITE_BUTTON" Language="fr_FR">
+<Text>Üzerine Yaz</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_OVERWRITE_NAVTRAY" Language="fr_FR">
+<Text>Üzerine Yaz</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_QUERY_ERROR" Language="fr_FR">
+<Text>Dosyalar sorgulanamıyor.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_QUERY_ERROR_TITLE" Language="fr_FR">
+<Text>Dosyaları sorgularken hata oluştu</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_QUOTA_EXCEEDED_DIALOG" Language="fr_FR">
+<Text>Oyun, oyun için kullanıcı başına kotayı aştı. [N]Kullanıcı başına depolama alanınızı boşaltmak için bazı kayıtları silin.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_QUOTA_EXCEEDED_DIALOG_TITLE" Language="fr_FR">
+<Text>Kullanıcı depolama kotası aşıldı</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_BUTTON" Language="fr_FR">
+<Text>Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_DISABLED_DESCRIPTION" Language="fr_FR">
+<Text>Çapraz oyun kaydetme sınırına ulaşıldı, üzerine yaz veya sil</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_ERROR" Language="fr_FR">
+<Text>Dosya kaydedilemiyor.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_ERROR_TITLE" Language="fr_FR">
+<Text>Dosya kaydedilirken hata oluştu</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_NAVTRAY" Language="fr_FR">
+<Text>Yeni Oluştur Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVEACTION_AUTO" Language="fr_FR">
+<Text>Otomatik Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVEACTION_MANUAL" Language="fr_FR">
+<Text>Manuel Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVEACTION_QUICK" Language="fr_FR">
+<Text>Hızlı Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVES" Language="fr_FR">
+<Text>Kurtarır</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_TITLE_LOAD" Language="fr_FR">
+<Text>Oyun Yükle</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_TITLE_LOAD_CONFIG" Language="fr_FR">
+<Text>Yük Konfigürasyonu</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_TITLE_LOADING" Language="fr_FR">
+<Text>Yükleniyor</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_TITLE_OVERWRITING" Language="fr_FR">
+<Text>Kayıtlı oyunun üzerine yazma ...</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_TITLE_SAVE" Language="fr_FR">
+<Text>Oyunu Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_TITLE_SAVE_CONFIG" Language="fr_FR">
+<Text>Yapılandırmayı Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_UNABLE_TO_LOAD_BODY" Language="fr_FR">
+<Text>Dosya yüklenemedi!</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_UNABLE_TO_LOAD_TITLE" Language="fr_FR">
+<Text>Yükleme Başarısız</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_UNABLE_TO_SAVE_BODY" Language="fr_FR">
+<Text>Dosya kaydedilemedi!</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_UNABLE_TO_SAVE_TITLE" Language="fr_FR">
+<Text>Kaydetme Başarısız</Text>
+</Replace>
+<Replace Tag="LOC_SCROLL_BOTTOM" Language="fr_FR">
+<Text>Kaydırmalı Alt</Text>
+</Replace>
+<Replace Tag="LOC_SCROLL_PAN" Language="fr_FR">
+<Text>Kaydırma</Text>
+</Replace>
+<Replace Tag="LOC_SCROLL_PAN_HELP" Language="fr_FR">
+<Text>Listeler arasında gezinme</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_1" Language="fr_FR">
+<Text>Etkileşim 1</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_1_HELP" Language="fr_FR">
+<Text>Her ekrana özgü 1 özel etkileşim</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_2" Language="fr_FR">
+<Text>Etkileşim 2</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_2_HELP" Language="fr_FR">
+<Text>Her ekrana özgü 2 özel etkileşim</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_3" Language="fr_FR">
+<Text>Etkileşim 3</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_3_HELP" Language="fr_FR">
+<Text>Her ekrana özgü 3 özel etkileşim</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_4" Language="fr_FR">
+<Text>Araç İpuçları</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_4_HELP" Language="fr_FR">
+<Text>Öğe araç ipuçlarını aç / kapat</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_5" Language="fr_FR">
+<Text>Sosyal Panel</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_ACTION_5_HELP" Language="fr_FR">
+<Text>Açık Sosyal Panel</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_NEXT" Language="fr_FR">
+<Text>Sonraki</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_NEXT_HELP" Language="fr_FR">
+<Text>Sonraki İkincil Sekme</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_PREVIOUS" Language="fr_FR">
+<Text>Sn. Önceki</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_PREVIOUS_HELP" Language="fr_FR">
+<Text>Önceki ikincil Sekme</Text>
+</Replace>
+<Replace Tag="LOC_SLOTTYPE_AI" Language="fr_FR">
+<Text>YAPAY ZEKA</Text>
+</Replace>
+<Replace Tag="LOC_SLOTTYPE_CLOSED" Language="fr_FR">
+<Text>Kapalı</Text>
+</Replace>
+<Replace Tag="LOC_SLOTTYPE_HUMANREQ" Language="fr_FR">
+<Text>İnsan Gerekli</Text>
+</Replace>
+<Replace Tag="LOC_SLOTTYPE_OPEN" Language="fr_FR">
+<Text>Açık</Text>
+</Replace>
+<Replace Tag="LOC_SWAP_PLOT_SELECTION" Language="fr_FR">
+<Text>Takas Arsa</Text>
+</Replace>
+<Replace Tag="LOC_SWAP_PLOT_SELECTION_HELP" Language="fr_FR">
+<Text>Aynı Çizim Karosundaki seçili öğeleri değiştir</Text>
+</Replace>
+<Replace Tag="LOC_SYSTEM_BACK" Language="fr_FR">
+<Text>Sistem Geri</Text>
+</Replace>
+<Replace Tag="LOC_SYSTEM_MENU" Language="fr_FR">
+<Text>Duraklat Menüsü</Text>
+</Replace>
+<Replace Tag="LOC_SYSTEM_MENU_HELP" Language="fr_FR">
+<Text>Duraklatma Menüsünü Aç</Text>
+</Replace>
+<Replace Tag="LOC_TARGET" Language="fr_FR">
+<Text>Hedef</Text>
+</Replace>
+<Replace Tag="LOC_TEXT_R" Language="fr_FR">
+<Text>®</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_CHAT" Language="fr_FR">
+<Text>Sohbet</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_CHAT_HELP" Language="fr_FR">
+<Text>Sohbet penceresini açma veya kapatma</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_DIPLO" Language="fr_FR">
+<Text>Lider Kurdeleler</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_DIPLO_HELP" Language="fr_FR">
+<Text>Lider Şeritlerini Daraltma veya Genişletme</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_MOUSE_EMULATE" Language="fr_FR">
+<Text>Fare Emülasyonunu Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_QUEST" Language="fr_FR">
+<Text>Görevler</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_QUEST_HELP" Language="fr_FR">
+<Text>Görevleri Daralt veya Genişlet</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_RADIAL_MENU" Language="fr_FR">
+<Text>Radyal Menü</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_RADIAL_MENU_HELP" Language="fr_FR">
+<Text>Radyal Menüyü Aç</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_TOOLTIP" Language="fr_FR">
+<Text>Çizim Araç İpuçları</Text>
+</Replace>
+<Replace Tag="LOC_TOGGLE_TOOLTIP_HELP" Language="fr_FR">
+<Text>Çizim Araç İpuçlarını Aç / Kapat</Text>
+</Replace>
+<Replace Tag="LOC_UI_ACTIVITY_HOST_MP_DESC" Language="fr_FR">
+<Text>Yeni bir lobiye devam ederseniz, bu oyunu kaydetmeden terk edersiniz. Emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_ACTIVITY_LAST_SAVE_DESC" Language="fr_FR">
+<Text>Son kaydınıza devam ederseniz, bu maçtan ayrılacaksınız. Emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_ACTIVITY_LEAVE_GAME_TITLE" Language="fr_FR">
+<Text>OYUNU BIRAKMAK MI?</Text>
+</Replace>
+<Replace Tag="LOC_UI_ACTIVITY_LEAVE_MP_GAME_TITLE" Language="fr_FR">
+<Text>ÇOK OYUNCULU OYUNU BIRAKACAK MISIN?</Text>
+</Replace>
+<Replace Tag="LOC_UI_AFFECTS_SAVE" Language="fr_FR">
+<Text>Kayıtlı oyunları etkiler:</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_ARG_MESSAGE" Language="fr_FR">
+<Text>(SohbetMesajı)</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_ARG_PLAYER" Language="fr_FR">
+<Text>(OyuncuAdı)</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_DESC_GLOBAL" Language="fr_FR">
+<Text>Küresel bir sohbet gönderin.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_DESC_HELP" Language="fr_FR">
+<Text>Sohbet panelindeki sohbet komutlarını listeler.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_DESC_RESPOND" Language="fr_FR">
+<Text>En son özel mesaja yanıt verin.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_ERROR_BLANK" Language="fr_FR">
+<Text>Komut Hatası: Lütfen bir mesaj gönderin</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_ERROR_RESPOND" Language="fr_FR">
+<Text>Komut Hatası: Yanıtlanacak özel mesaj yok</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_LIST" Language="fr_FR">
+<Text>Mevcut Sohbet Komut Listesi:</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_PROMPT_HELP" Language="fr_FR">
+<Text>Tüm sohbet komutlarını görmek için '/help' veya '/h' yazın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_FROM" Language="fr_FR">
+<Text>Kimden</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_GAMEPAD_INPUT_DESC_GLOBAL" Language="fr_FR">
+<Text>GLOBAL'e yaz</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_ICONS" Language="fr_FR">
+<Text>Simgeler</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_ICONS_EMOJI" Language="fr_FR">
+<Text>Emojiler</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_ICONS_RESOURCES" Language="fr_FR">
+<Text>Kaynaklar</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_ICONS_YIELDS" Language="fr_FR">
+<Text>Verim</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_NEW_MESSAGE" Language="fr_FR">
+<Text>Yeni Mesajlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_OPEN_TIP" Language="fr_FR">
+<Text>Sohbet panelini açın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_OPEN_TIP_ICONS" Language="fr_FR">
+<Text>Simge seçeneklerini açın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_OPEN_TIP_PREVIEW" Language="fr_FR">
+<Text>Mesaj önizlemesini aç</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_OPEN_TIP_PRIVATE" Language="fr_FR">
+<Text>Açık hedef seçenekleri</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_TOGGLE_TIP" Language="fr_FR">
+<Text>Sohbet panelini aç / kapat</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PREVIEW" Language="fr_FR">
+<Text>Önizleme</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PRIVATE" Language="fr_FR">
+<Text>Özel</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PROMPT_GLOBAL_SHORT" Language="fr_FR">
+<Text>g</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PROMPT_HELP_LONG" Language="fr_FR">
+<Text>Yardım</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PROMPT_HELP_SHORT" Language="fr_FR">
+<Text>h</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PROMPT_PRIVATE_SHORT" Language="fr_FR">
+<Text>w</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PROMPT_RESPOND_SHORT" Language="fr_FR">
+<Text>r</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_SEND" Language="fr_FR">
+<Text>Gönder</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_SEND_TO" Language="fr_FR">
+<Text>Gönder</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_TO" Language="fr_FR">
+<Text>için</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTINUE_EVENTS" Language="fr_FR">
+<Text>Etkinlik Oyununa Devam Et</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_BIND_GESTURE" Language="fr_FR">
+<Text>Bu komutu yeniden bağlamak için herhangi bir girişe basın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_BIND_TITLE" Language="fr_FR">
+<Text>Şu Anda Yeniden Eşleme</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_CONFIRM_CHANGE_BODY" Language="fr_FR">
+<Text>Bu yeni eşlemeyi kaydetmek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_CONFIRM_CHANGE_TITLE" Language="fr_FR">
+<Text>Değişiklikleri Onayla</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_INVERT_STICK" Language="fr_FR">
+<Text>Swap Stick İşlevselliği</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_INVERT_STICK_MICROSOFT" Language="fr_FR">
+<Text>Swap Stick İşlevselliği</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_INVERT_STICK_PS4" Language="fr_FR">
+<Text>Swap Stick İşlevselliği</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_INVERT_STICK_PS5" Language="fr_FR">
+<Text>Swap Stick İşlevselliği</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_RESET_DEFAULT_BODY" Language="fr_FR">
+<Text>Varsayılan eşlemeye geri dönmek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_RESET_DEFAULT_TITLE" Language="fr_FR">
+<Text>Varsayılanı Geri Yükle</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_RESTORE_DEFAULT" Language="fr_FR">
+<Text>Varsayılanı Geri Yükle</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_SUBTITLE" Language="fr_FR">
+<Text>Eşlemeleri görüntüleyin ve herhangi bir girişi yeniden bağlayın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CONTROLLER_MAPPING_TITLE" Language="fr_FR">
+<Text>Kontroller</Text>
+</Replace>
+<Replace Tag="LOC_UI_DEPENDENDENCIES" Language="fr_FR">
+<Text>Bağımlılıklar</Text>
+</Replace>
+<Replace Tag="LOC_UI_DISABLED" Language="fr_FR">
+<Text>Engelli</Text>
+</Replace>
+<Replace Tag="LOC_UI_DROPDOWN_NO_SELECTION" Language="fr_FR">
+<Text>Bir öğe seçin</Text>
+</Replace>
+<Replace Tag="LOC_UI_ENABLED" Language="fr_FR">
+<Text>Etkin</Text>
+</Replace>
+<Replace Tag="LOC_UI_ERROR_DECODING_ENTITLEMENT_NAME" Language="fr_FR">
+<Text>Hata G100: Verilen öğenin adı çözülemedi</Text>
+</Replace>
+<Replace Tag="LOC_UI_EVENTS_EXIT" Language="fr_FR">
+<Text>Ana Menüden Çıkış</Text>
+</Replace>
+<Replace Tag="LOC_UI_EVENTS_MULTIPLAYER" Language="fr_FR">
+<Text>Çok Oyunculu Etkinlik Oyunu</Text>
+</Replace>
+<Replace Tag="LOC_UI_EVENTS_RULES" Language="fr_FR">
+<Text>Kurallar:</Text>
+</Replace>
+<Replace Tag="LOC_UI_EVENTS_SINGLEPLAYER" Language="fr_FR">
+<Text>Yeni Etkinlik Oyunu</Text>
+</Replace>
+<Replace Tag="LOC_UI_FILTER_SORT_FILTERS" Language="fr_FR">
+<Text>Filtreler</Text>
+</Replace>
+<Replace Tag="LOC_UI_FILTER_SORT_SORTING" Language="fr_FR">
+<Text>Sıralama</Text>
+</Replace>
+<Replace Tag="LOC_UI_FRIENDS_OPEN_SEARCH" Language="fr_FR">
+<Text>2K Arkadaşlarını Bul</Text>
+</Replace>
+<Replace Tag="LOC_UI_FRIENDS_OPEN_SEARCH_TITLE" Language="fr_FR">
+<Text>2K Player'ı Bul</Text>
+</Replace>
+<Replace Tag="LOC_UI_FRIENDS_SEARCH" Language="fr_FR">
+<Text>Arama</Text>
+</Replace>
+<Replace Tag="LOC_UI_FRIENDS_SEARCH_FIELD" Language="fr_FR">
+<Text>2K Arkadaş Kullanıcı Adını Girin</Text>
+</Replace>
+<Replace Tag="LOC_UI_FRIENDS_SEARCH_TITLE" Language="fr_FR">
+<Text>2K Arkadaşlarını Bul</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_ACCEPT" Language="fr_FR">
+<Text>Kabul et</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_BACK" Language="fr_FR">
+<Text>Geri</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_BIND_GESTURE" Language="fr_FR">
+<Text>Bu komutu yeniden bağlamak için herhangi bir tuşa basın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_BIND_TITLE" Language="fr_FR">
+<Text>Şu Anda Yeniden Eşleme</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_DOWN" Language="fr_FR">
+<Text>Kamerayı Aşağı Kaydır</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_DOWN_TT" Language="fr_FR">
+<Text>Kamerayı aşağı kaydırın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_LEFT" Language="fr_FR">
+<Text>Kamerayı Sola Kaydır</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_LEFT_TT" Language="fr_FR">
+<Text>Kamerayı sola kaydırın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_RIGHT" Language="fr_FR">
+<Text>Kamerayı Sağa Kaydır</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_RIGHT_TT" Language="fr_FR">
+<Text>Kamerayı sağa kaydırın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_UP" Language="fr_FR">
+<Text>Kamerayı Yukarı Kaydır</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_UP_TT" Language="fr_FR">
+<Text>Kamerayı yukarı kaydırın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CANCEL" Language="fr_FR">
+<Text>İptal</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAPITAL_CITY" Language="fr_FR">
+<Text>Başkent</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CAPITAL_CITY_TT" Language="fr_FR">
+<Text>Odağını Başkente çeviriyor</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CITY_HEADER" Language="fr_FR">
+<Text>Şehir Manzarası</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CIV_BACK" Language="fr_FR">
+<Text>Civilopedia Geçmişi Geri</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CIV_BACK_TT" Language="fr_FR">
+<Text>Civilopedia açıkken sayfa geçmişinde geriye gider</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CIV_FORWARD" Language="fr_FR">
+<Text>Civilopedia Tarihi İleri</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CIV_FORWARD_TT" Language="fr_FR">
+<Text>Civilopedia açıkken sayfa geçmişinde ileri gider</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CONFIRM_CHANGE_BODY" Language="fr_FR">
+<Text>Bu yeni eşlemeyi kaydetmek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_CONFIRM_CHANGE_TITLE" Language="fr_FR">
+<Text>Değişiklikleri Onayla</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_DESCRIPTION_1" Language="fr_FR">
+<Text>Klavye eşlemesini görüntüleyin ve herhangi bir girişi yeniden bağlayın.</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_DESCRIPTION_2" Language="fr_FR">
+<Text>Klavye ve fare eşlemelerini görüntüleyin ve yeniden bağlayın.</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_DIPLOMACY_HEADER" Language="fr_FR">
+<Text>Diplomasi Görünümü</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_FORCE_END_TURN" Language="fr_FR">
+<Text>Sonraki Turü Zorla</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_FORCE_END_TURN_TT" Language="fr_FR">
+<Text>Herhangi bir tur engelleme eylemine bakılmaksızın mevcut turü sona erdirir.</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_GLOBAL_ACTIONS" Language="fr_FR">
+<Text>Küresel Eylemler</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_HEADER" Language="fr_FR">
+<Text>Klavye Eşleme</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_IN_GAME_MENU" Language="fr_FR">
+<Text>Oyun İçi Menü</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_IN_GAME_MENU_TT" Language="fr_FR">
+<Text>Oyun içi Menüyü getirin</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_LENSES" Language="fr_FR">
+<Text>Lensler</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_MAP_SEARCH" Language="fr_FR">
+<Text>Harita Arama</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_MAP_SEARCH_TT" Language="fr_FR">
+<Text>Dünya haritasında arama yapın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_MENUS_HEADER" Language="fr_FR">
+<Text>Menüler</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_NEXT_ACTION" Language="fr_FR">
+<Text>Sonraki Eylem</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_NEXT_ACTION_TT" Language="fr_FR">
+<Text>Bir sonraki eylemi gerçekleştirin veya mümkünse oyuncunun sırasını sonlandırın.</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_NEXT_CITY" Language="fr_FR">
+<Text>Sonraki Şehir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_NEXT_CITY_TT" Language="fr_FR">
+<Text>Bir sonraki şehre geçer</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_NEXT_READY_UNIT" Language="fr_FR">
+<Text>Sonraki Hazır Birim</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_NEXT_READY_UNIT_TT" Language="fr_FR">
+<Text>Bir sonraki hazır birime geçer</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_OPEN_ATTRIBUTES" Language="fr_FR">
+<Text>Açık Nitelikler</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_OPEN_ATTRIBUTES_TT" Language="fr_FR">
+<Text>Öznitelikler ekranını açın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_OPEN_CIVILOPEDIA" Language="fr_FR">
+<Text>Açık Medeni Ansiklopedi</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_OPEN_GOVERNMENT" Language="fr_FR">
+<Text>Açık Hükümet</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_OPEN_GOVERNMENT_TT" Language="fr_FR">
+<Text>Hükümet ekranını açın</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_PAUSE_ONLINE_GAME" Language="fr_FR">
+<Text>Çevrimiçi Oyunu Duraklat</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_PAUSE_ONLINE_GAME_TT" Language="fr_FR">
+<Text>Çevrimiçi Oyunu Duraklatır</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_PREVIOUS_CITY" Language="fr_FR">
+<Text>Önceki Şehir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_PREVIOUS_CITY_TT" Language="fr_FR">
+<Text>Bir önceki şehre geçer</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_PREVIOUS_READY_UNIT" Language="fr_FR">
+<Text>Önceki Hazır Birim</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_PREVIOUS_READY_UNIT_TT" Language="fr_FR">
+<Text>Bir önceki hazır birime geçer</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_QUICK_LOAD" Language="fr_FR">
+<Text>Hızlı Yükleme</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_QUICK_LOAD_TT" Language="fr_FR">
+<Text>Varsa en son hızlı kaydetmeyi yükler.</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_QUICK_SAVE" Language="fr_FR">
+<Text>Hızlı Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_QUICK_SAVE_TT" Language="fr_FR">
+<Text>Hızlı kaydetme gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_RESET_DEFAULT_TITLE" Language="fr_FR">
+<Text>Varsayılanı Geri Yükle</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_SAVE" Language="fr_FR">
+<Text>Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_CIVICS_SCREEN" Language="fr_FR">
+<Text>Yurttaşlık Bilgisi Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_GREAT_PEOPLE_SCREEN" Language="fr_FR">
+<Text>Harika İnsanlar Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_GREAT_WORKS_SCREEN" Language="fr_FR">
+<Text>Büyük İşler Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_GRID" Language="fr_FR">
+<Text>Izgarayı Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_GRID_TT" Language="fr_FR">
+<Text>Arazi üzerinde bir ızgara kaplaması açar</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_JOURNAL" Language="fr_FR">
+<Text>Toggle Journal</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_CONTINENT" Language="fr_FR">
+<Text>Kıta</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_CONTINENT_TT" Language="fr_FR">
+<Text>Kıta Merceğini Değiştirin</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_RELIGION" Language="fr_FR">
+<Text>Din</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_RELIGION_TT" Language="fr_FR">
+<Text>Din Merceğini Değiştirin</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_SETTLER" Language="fr_FR">
+<Text>Yerleşimci</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_SETTLER_TT" Language="fr_FR">
+<Text>Yerleşimci Merceğini Değiştirin</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_TRADE" Language="fr_FR">
+<Text>Ticaret</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_TRADE_TT" Language="fr_FR">
+<Text>Ticaret Merceğini Değiştirin</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_RANKINGS_SCREEN" Language="fr_FR">
+<Text>Sıralamalar Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_RELIGION" Language="fr_FR">
+<Text>Din Panelini Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_ICONS" Language="fr_FR">
+<Text>Kaynak Simgelerini Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_ICONS_TT" Language="fr_FR">
+<Text>Kaynak simgelerinin görünürlüğünü değiştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_SCREEN" Language="fr_FR">
+<Text>Kaynak Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_TECH_TREE" Language="fr_FR">
+<Text>Teknik Ağacı Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_TRADE_SCREEN" Language="fr_FR">
+<Text>Ticaret Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_VICTORY_PROGRESS" Language="fr_FR">
+<Text>Zafer İlerleme Ekranını Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_YIELD_ICONS" Language="fr_FR">
+<Text>Verim Simgelerini Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_YIELD_ICONS_TT" Language="fr_FR">
+<Text>Verim simgelerinin görünürlüğünü değiştirme</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_TOGGLE_YIELDS_REPORT" Language="fr_FR">
+<Text>Getiri Raporunu Değiştir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_ACTIONS" Language="fr_FR">
+<Text>Birim Eylemleri</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_ALERT" Language="fr_FR">
+<Text>Uyarı</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_ALERT_TT" Language="fr_FR">
+<Text>Seçilen birimle bir uyarı eylemi gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_AND_CITY_ACTIONS" Language="fr_FR">
+<Text>Birim ve Şehir Eylemleri</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_ATTACK" Language="fr_FR">
+<Text>Saldırı</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_ATTACK_TT" Language="fr_FR">
+<Text>Seçilen birimle bir saldırı eylemi gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_AUTOMATE_EXPLORATION" Language="fr_FR">
+<Text>Keşfi Otomatikleştirin</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_AUTOMATE_EXPLORATION_TT" Language="fr_FR">
+<Text>Seçilen birimde otomatik araştırmayı etkinleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_DELETE" Language="fr_FR">
+<Text>Birimi Sil</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_DELETE_TT" Language="fr_FR">
+<Text>Seçilen birimi siler</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFIED_HEAL" Language="fr_FR">
+<Text>Güçlendirilmiş İyileştirme</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFIED_HEAL_TT" Language="fr_FR">
+<Text>İyileşene kadar seçilen birimi güçlendirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFY" Language="fr_FR">
+<Text>Güçlendirmek</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFY_TT" Language="fr_FR">
+<Text>Seçilen birimi güçlendirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_FOUND_CITY" Language="fr_FR">
+<Text>Bulunan Şehir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_FOUND_CITY_TT" Language="fr_FR">
+<Text>Seçilen birim bir Yerleşimci ise Bulunan Şehir işlemini gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_MOVE_TO" Language="fr_FR">
+<Text>Hareket Et</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_MOVE_TO_TT" Language="fr_FR">
+<Text>Seçilen birimle Şuraya Taşı eylemini gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_RANGED_ATTACK" Language="fr_FR">
+<Text>Menzilli Saldırı</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_RANGED_ATTACK_TT" Language="fr_FR">
+<Text>Seçilen birim ile Menzilli Saldırı gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_SKIP_TURN" Language="fr_FR">
+<Text>Dönüşü Atla</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_SKIP_TURN_TT" Language="fr_FR">
+<Text>Seçilen birim geçerli turü atlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_SLEEP" Language="fr_FR">
+<Text>Uyku</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_UNIT_SLEEP_TT" Language="fr_FR">
+<Text>Seçilen birim ile Uyku eylemini gerçekleştirir</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_USER_INTERFACE_ACTIONS" Language="fr_FR">
+<Text>Kullanıcı Arayüzü Eylemleri</Text>
+</Replace>
+<Replace Tag="LOC_UI_KBM_MAPPING_WORLD_HEADER" Language="fr_FR">
+<Text>Dünya Görüşü</Text>
+</Replace>
+<Replace Tag="LOC_UI_LOAD_CONFIG" Language="fr_FR">
+<Text>Yük Konfigürasyonu</Text>
+</Replace>
+<Replace Tag="LOC_UI_LOAD_EVENTS" Language="fr_FR">
+<Text>Etkinlik Oyunu Yükle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MOD_MULTIPLAYER" Language="fr_FR">
+<Text>Çok oyunculu:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MOD_NONE_AVAILABLE" Language="fr_FR">
+<Text>Ek içerik mevcut değildir.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MOD_SINGLE_PLAYER" Language="fr_FR">
+<Text>Tek Oyuncu:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BLOCKED_PLAYER_GAME" Language="fr_FR">
+<Text>Engellenen Oyuncunun Oyunu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_CREATE_GAME" Language="fr_FR">
+<Text>Oyun Oluştur</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_CREATE_NAVTRAY" Language="fr_FR">
+<Text>Oyun Oluştur</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_ENTER_JOIN_CODE" Language="fr_FR">
+<Text>Katılım Kodunu Girin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_CONTENT" Language="fr_FR">
+<Text>İçerik</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_EVENT" Language="fr_FR">
+<Text>Etkinlik</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_GAME_NAME" Language="fr_FR">
+<Text>Oyun Adı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_GAME_SPEED" Language="fr_FR">
+<Text>Oyun Hızı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_MAP_TYPE" Language="fr_FR">
+<Text>Harita Türü</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_PLAYERS" Language="fr_FR">
+<Text>Oyuncular</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTER_RULE" Language="fr_FR">
+<Text>Kural Seti</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_FILTERS" Language="fr_FR">
+<Text>Filtreler</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_JOIN_BUTTON" Language="fr_FR">
+<Text>Katılım Kodu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_JOIN_GAME" Language="fr_FR">
+<Text>Katılın</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_JOIN_NAVTRAY" Language="fr_FR">
+<Text>Katılın</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_LOAD_GAME" Language="fr_FR">
+<Text>Oyun Yükle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_LOAD_NAVTRAY" Language="fr_FR">
+<Text>Oyun Yükle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_LOADING_SAVE_TOOLTIP" Language="fr_FR">
+<Text>Oyun Yükleme Kaydetme</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_MISSING_MOD_TOOLTIP" Language="fr_FR">
+<Text>Eksik İçerik</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_PLAYERS" Language="fr_FR">
+<Text>Oyuncular</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_QUICK_JOIN" Language="fr_FR">
+<Text>Hızlı Katılma</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_QUICK_JOIN_NAVTRAY" Language="fr_FR">
+<Text>Hızlı Katılma</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_REFRESH_BUTTON" Language="fr_FR">
+<Text>Yenile</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_REFRESH_MESSAGE" Language="fr_FR">
+<Text>Oyun listesi güncelleniyor</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_SCREEN_SUBTITLE" Language="fr_FR">
+<Text>Halka Açık Oyunlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_SCREEN_TITLE" Language="fr_FR">
+<Text>Genel Oyunlara Gözat</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_TITLE" Language="fr_FR">
+<Text>Oyunlara Gözat</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_TITLE_INTERNET" Language="fr_FR">
+<Text>İnternet Oyunlarına Gözat</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_TITLE_LAN" Language="fr_FR">
+<Text>LAN Oyunlarına Gözat</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_TITLE_WIRELESS" Language="fr_FR">
+<Text>Kablosuz Oyunlara Gözat</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_CHAT" Language="fr_FR">
+<Text>Sohbet</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_CREATE_GAME_SUBTITLE" Language="fr_FR">
+<Text>Çok Oyunculu Oyun Oluşturma</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_CREATE_GAME_TITLE" Language="fr_FR">
+<Text>ÇOK OYUNCULU</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_EXTRA_CONTENT" Language="fr_FR">
+<Text>İndirilebilir İçerik</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_2K_HEART_TOOLTIP" Language="fr_FR">
+<Text>Siz 2K arkadaşısınız</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_ACTION_ADD_FRIEND" Language="fr_FR">
+<Text>Arkadaş Ekle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_ACTION_INVITE" Language="fr_FR">
+<Text>Davetiye Gönder</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_ACTION_INVITED" Language="fr_FR">
+<Text>Davetiye Gönderildi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_ACTION_NOTIFICATIONS_RECEIVED" Language="fr_FR">
+<Text>Alınan Eylem</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_ACTION_NOTIFICATIONS_SENT" Language="fr_FR">
+<Text>Eylem Gönderildi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_ACTION_UNBLOCK" Language="fr_FR">
+<Text>Engellemeyi Kaldır</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_INVITE_TITLE" Language="fr_FR">
+<Text>Oyun Daveti İsteğini Kabul Et?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_REQUEST_TITLE" Language="fr_FR">
+<Text>Arkadaşlık İsteğini Kabul Et?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_BLOCK_TITLE" Language="fr_FR">
+<Text>Blok Oyuncu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_CANCEL_REQUEST_TITLE" Language="fr_FR">
+<Text>Arkadaşlık İsteğini İptal Et?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_INVITE_TITLE" Language="fr_FR">
+<Text>Oyun Daveti Talebini Reddetmek mi?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_REQUEST_TITLE" Language="fr_FR">
+<Text>Arkadaşlık İsteğini Reddetmek mi?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_GAME_INVITE_TITLE" Language="fr_FR">
+<Text>Oyun Daveti Gönder?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_REQUEST_TITLE" Language="fr_FR">
+<Text>Arkadaşlık İsteği Gönder?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_UNBLOCK_TITLE" Language="fr_FR">
+<Text>Oyuncu Engelini Kaldır</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_ADD_FRIEND_TITLE" Language="fr_FR">
+<Text>Arkadaşlık İsteği Gönderildi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE_TITLE" Language="fr_FR">
+<Text>Davet Edilen Oyuncu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE_TO_JOIN_TITLE" Language="fr_FR">
+<Text>Oyun Davetiyesi Gönderildi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_UNBLOCK_TITLE" Language="fr_FR">
+<Text>Oyuncu Engeli Kaldırıldı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FRIENDS_LIST" Language="fr_FR">
+<Text>Arkadaşlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_HEART_TOOLTIP" Language="fr_FR">
+<Text>Siz arkadaşsınız</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_LOBBY_LIST" Language="fr_FR">
+<Text>Lobi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_LOBBY_MULTIPLYER_REMINDER" Language="fr_FR">
+<Text>Çok oyunculu modda olmanız gerekir</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_NOTIFICATIONS_LIST" Language="fr_FR">
+<Text>Bildirimler</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_RECENT_LIST" Language="fr_FR">
+<Text>Yakın zamanda</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_REMOVE_FRIEND_TITLE" Language="fr_FR">
+<Text>Arkadaşı çıkarmak mı?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_SEARCH_LIST" Language="fr_FR">
+<Text>Arama</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_SEARCH_RESULTS_LIST" Language="fr_FR">
+<Text>Arama Sonuçları</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_SEARCHING" Language="fr_FR">
+<Text>Aranıyor.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TAB_INVITE" Language="fr_FR">
+<Text>Arkadaşlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TAB_LOBBY" Language="fr_FR">
+<Text>Lobi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TAB_NOTIFICATIONS" Language="fr_FR">
+<Text>Bildirimler</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TAB_RECENT" Language="fr_FR">
+<Text>Yakın zamanda</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TAB_SEARCH" Language="fr_FR">
+<Text>Arama Sonuçları</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TAB_UNBLOCK" Language="fr_FR">
+<Text>Blok Listesi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TITLE_INVITE" Language="fr_FR">
+<Text>Arkadaşlarınızı Davet Edin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TITLE_RECENT" Language="fr_FR">
+<Text>Yakın zamanda</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TITLE_SEARCH" Language="fr_FR">
+<Text>Arama Sonuçları</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_TITLE_UNBLOCK" Language="fr_FR">
+<Text>Blok Listesi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_UNBLOCK_LIST" Language="fr_FR">
+<Text>Blok</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_MODE_AUTOMATCH" Language="fr_FR">
+<Text>Otomatik Eşleşme</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_MODE_AUTOMATCH_DESCRIPTION" Language="fr_FR">
+<Text>Rastgele oyuncularla Otomatik Eşleşme</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_MODE_CREATE_GAME" Language="fr_FR">
+<Text>Oyun Oluştur</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_MODE_CREATE_GAME_DESCRIPTION" Language="fr_FR">
+<Text>Çevrimiçi bir oyun oluşturun ve arkadaşlarınızı davet edin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_MODE_SUBTITLE" Language="fr_FR">
+<Text>ÇOK OYUNCULU</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_MODE_TITLE" Language="fr_FR">
+<Text>OYUN MODUNU SEÇIN</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_AI_PLAYER_COUNT" Language="fr_FR">
+<Text>CPU Oyuncu Sayısı:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_HOST" Language="fr_FR">
+<Text>Ev sahibi:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_HUMAN_PLAYER_COUNT" Language="fr_FR">
+<Text>Oyuncu Sayısı:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_KICK_VOTING" Language="fr_FR">
+<Text>Tekme Oylaması:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_PRIVATE_GAME" Language="fr_FR">
+<Text>Özel Oyun:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_STARTING_AGE" Language="fr_FR">
+<Text>Başlangıç çağı:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_MODE" Language="fr_FR">
+<Text>Tur Modu:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_MODE_NONE" Language="fr_FR">
+<Text>Hiçbiri</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_MODE_SIMULTANEOUS" Language="fr_FR">
+<Text>Eşzamanlı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_MODE_SINGLEPLAYER" Language="fr_FR">
+<Text>Tek Oyunculu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER" Language="fr_FR">
+<Text>Zamanlayıcıyı çevirin:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER_DYNAMIC" Language="fr_FR">
+<Text>Dinamik</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER_NONE" Language="fr_FR">
+<Text>Hiçbiri</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER_STANDARD" Language="fr_FR">
+<Text>Standart</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_GAME_RULES_TITLE" Language="fr_FR">
+<Text>Çok Oyunculu Kurallar ve Modlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_CIV" Language="fr_FR">
+<Text>Civ</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_KICK" Language="fr_FR">
+<Text>Tekme</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_LEADER" Language="fr_FR">
+<Text>Lider</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_MODS" Language="fr_FR">
+<Text>Modlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_PLAYER" Language="fr_FR">
+<Text>Oyuncu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_READY" Language="fr_FR">
+<Text>Hazır mısın?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_RULES" Language="fr_FR">
+<Text>Kurallar</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HEADER_TEAM" Language="fr_FR">
+<Text>Takım</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_HOST_LOBBY" Language="fr_FR">
+<Text>Ev Sahibi Lobisi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_JOIN_CODE_PLACEHOLDER" Language="fr_FR">
+<Text>Kodu girin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_JOIN_CODE_TITLE" Language="fr_FR">
+<Text>Katılım Kodu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_CREATE_GAME" Language="fr_FR">
+<Text>OYUN OLUŞTUR</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_ERROR_GAME_STARTED" Language="fr_FR">
+<Text>Oyun başladı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_ERROR_NO_CONNECTION" Language="fr_FR">
+<Text>Bağlantı yok</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_ERROR_ROOM_FULL" Language="fr_FR">
+<Text>Oda Dolu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_ERROR_TOO_MANY_MATCHES" Language="fr_FR">
+<Text>Çok fazla kibrit</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_GAMES_BROWSER" Language="fr_FR">
+<Text>OYUNLARA GÖZ ATIN</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_INTERNET" Language="fr_FR">
+<Text>İnternet</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_JOIN_GAME" Language="fr_FR">
+<Text>OYUNA KATIL</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_LAN" Language="fr_FR">
+<Text>LAN</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_LOAD_GAME" Language="fr_FR">
+<Text>OYUN YÜKLE</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_MATCHMAKE_GAME" Language="fr_FR">
+<Text>HIZLI KATILIM</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_MATCHMAKE_START_ERROR" Language="fr_FR">
+<Text>Eşleştirme başlatılamadı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_RELAY_SERVER_ADDRESS_PROMPT" Language="fr_FR">
+<Text>Aktarıcı Sunucu Adresi:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_SUBTITLE" Language="fr_FR">
+<Text>LANDİNG EKRANI</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_TITLE" Language="fr_FR">
+<Text>ÇOK OYUNCULU OYUN MODU</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_WIRELESS" Language="fr_FR">
+<Text>Kablosuz</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DIFFICULTY" Language="fr_FR">
+<Text>Zorluk derecesi:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DROPDOWN_ACTION_DEFAULT" Language="fr_FR">
+<Text>Oyuncu Üzerindeki Eylemler</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DROPDOWN_ACTION_DESC" Language="fr_FR">
+<Text>Bu oyuncu yuvası için eylem seçici.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DROPDOWN_CIV_DESC" Language="fr_FR">
+<Text>Bu oyuncu için uygarlık seçici.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DROPDOWN_LEADER_DESC" Language="fr_FR">
+<Text>Bu oyuncu için lider seçici.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DROPDOWN_TEAM_DEFAULT" Language="fr_FR">
+<Text>Takım Yok</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_DROPDOWN_TEAM_DESC" Language="fr_FR">
+<Text>Bu oyuncu için takım seçici.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_GAME_OPTION" Language="fr_FR">
+<Text>Oyun Seçenekleri</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_GAME_SPEED" Language="fr_FR">
+<Text>Oyun hızı:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_MAP_SIZE" Language="fr_FR">
+<Text>Harita Boyutu:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_MAP_TYPE" Language="fr_FR">
+<Text>Harita Türü:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_READY_BUTTON_NOT_READY" Language="fr_FR">
+<Text>Hazır mısın?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_READY_BUTTON_STARTING_GAME" Language="fr_FR">
+<Text>Başlıyoruz.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_READY_BUTTON_WAITING_FOR_OTHERS" Language="fr_FR">
+<Text>Oyuncuları bekliyorum</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_RULE_SET" Language="fr_FR">
+<Text>Kural Seti:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_RULES" Language="fr_FR">
+<Text>Tüm Kuralları Görüntüle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_SHOW_FRIENDS" Language="fr_FR">
+<Text>Arkadaşlarını Göster</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_SHOW_JOIN_CODE" Language="fr_FR">
+<Text>Katılım Kodunu Göster</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_SUBTITLE" Language="fr_FR">
+<Text>Lobi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_TIME_REMAINING" Language="fr_FR">
+<Text>Kalan süre</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_MEMENTO" Language="fr_FR">
+<Text>Hatıraları Seçin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_NEW_GAME_CREATE" Language="fr_FR">
+<Text>OLUŞTUR</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_NEW_GAME_ENTER_JOIN_CODE" Language="fr_FR">
+<Text>Lütfen bir katılım kodu girin:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_NEW_GAME_JOIN" Language="fr_FR">
+<Text>BİRLEŞİN</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_NEW_GAME_TITLE" Language="fr_FR">
+<Text>YENİ OYUN</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAY_MODE_LOCAL" Language="fr_FR">
+<Text>Yerel</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAY_MODE_LOCAL_DESCRIPTION" Language="fr_FR">
+<Text>Yerel bir oyun oluşturun ve arkadaşlarınızı davet edin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAY_MODE_ONLINE" Language="fr_FR">
+<Text>Çevrimiçi</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAY_MODE_ONLINE_DESCRIPTION" Language="fr_FR">
+<Text>Arkadaşlarınızla Çok Oyunculu Çevrimiçi bir oyun oluşturun veya otomatik bir maça katılın</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAY_MODE_SUBTITLE" Language="fr_FR">
+<Text>ÇOK OYUNCULU</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAY_MODE_TITLE" Language="fr_FR">
+<Text>OYUN MODUNU SEÇIN</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_ACCEPT_T2GP_FRIEND_REQUEST" Language="fr_FR">
+<Text>Arkadaşlık İsteğini Kabul Et</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_ACCEPT_T2GP_GAME_INVITE_REQUEST" Language="fr_FR">
+<Text>Oyun Daveti İsteğini Kabul Et</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_ADD_PLAT_FRIEND" Language="fr_FR">
+<Text>Arkadaş</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_ADD_T2GP_FRIEND" Language="fr_FR">
+<Text>Arkadaş Ekle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_BLOCK" Language="fr_FR">
+<Text>Blok</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_CANCEL_T2GP_FRIEND_REQUEST" Language="fr_FR">
+<Text>Arkadaşlık İsteğini İptal Et</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_DECLINE_T2GP_FRIEND_REQUEST" Language="fr_FR">
+<Text>Arkadaşlık İsteğini Reddet</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_DECLINE_T2GP_GAME_INVITE_REQUEST" Language="fr_FR">
+<Text>Oyun Daveti Talebini Reddet</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_INVITE_FRIEND" Language="fr_FR">
+<Text>Katılmaya Davet Et</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_KICK" Language="fr_FR">
+<Text>Tekme</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_MUTE" Language="fr_FR">
+<Text>Sessiz</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_REMOVE_FRIEND" Language="fr_FR">
+<Text>Arkadaşı Kaldır</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_REPORT" Language="fr_FR">
+<Text>Rapor</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_UNBLOCK" Language="fr_FR">
+<Text>Engellemeyi Kaldır</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_UNMUTE" Language="fr_FR">
+<Text>Sesi aç</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_PLAYER_OPTIONS_VIEW_PROFILE" Language="fr_FR">
+<Text>Profili Görüntüle</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_QUICK_JOIN_JOIN" Language="fr_FR">
+<Text>Hızlı Katılma</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_QUICK_JOIN_RULE_AGE" Language="fr_FR">
+<Text>Başlangıç Çağı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_QUICK_JOIN_RULE_RULESET" Language="fr_FR">
+<Text>Kural Seti</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_QUICK_JOIN_RULE_SPEED" Language="fr_FR">
+<Text>Oyun Hızı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_QUICK_JOIN_SUBTITLE" Language="fr_FR">
+<Text>Hızlı Katılım Kuralları</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_REPORT_BODY" Language="fr_FR">
+<Text>Ev sahibi oyuncuyu rapor etmek ve bu oyunu listeden gizlemek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_REPORT_PLAYER_BODY" Language="fr_FR">
+<Text>Bu oyuncu nasıl tacizci oluyor?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_REPORT_PLAYER_TITLE" Language="fr_FR">
+<Text>Oyuncu Bildir</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_REPORT_TITLE" Language="fr_FR">
+<Text>Rapor Oyunu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_SOCIAL_BUTTON_LABEL" Language="fr_FR">
+<Text>Sosyal Menü</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_SOCIAL_RESTRICTED_GAME" Language="fr_FR">
+<Text>Özel Oyun</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_CLIENT_TITLE" Language="fr_FR">
+<Text>Çok Oyunculu Hazırlama Ekranı: İstemci Kurulumu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_HOST_TITLE" Language="fr_FR">
+<Text>Çok Oyunculu Hazırlama Ekranı: Ev Sahibi Kurulumu</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_INVITE_BUTTON" Language="fr_FR">
+<Text>Arkadaşlarınızı Davet Edin</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_PLAYER_LIST_TITLE" Language="fr_FR">
+<Text>Oyuncu Listesi:</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_READY_BUTTON_READY" Language="fr_FR">
+<Text>HAZIR OL</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_READY_BUTTON_UNREADY" Language="fr_FR">
+<Text>HAZIR DEĞİL</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_SUBTITLE" Language="fr_FR">
+<Text>Evreleme Ekranı</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STAGING_TITLE" Language="fr_FR">
+<Text>ÇOK OYUNCULU</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_STATUS_JOINING" Language="fr_FR">
+<Text>Oyuna katılma ...</Text>
+</Replace>
+<Replace Tag="LOC_UI_NO_INTERNET_CONNECTION" Language="fr_FR">
+<Text>Mevcut bulut kayıtları kullanılamayacaktır. [n]Oyunda kaydedilen ilerleme kaydedilmeyebilir.</Text>
+</Replace>
+<Replace Tag="LOC_UI_NO_INTERNET_CONNECTION_TITLE" Language="fr_FR">
+<Text>INTERNET BAĞLANTISI YOK</Text>
+</Replace>
+<Replace Tag="LOC_UI_OPTIONS_TITLE" Language="fr_FR">
+<Text>Seçenekler</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_ALREADY_REDEEMED_INFO" Language="fr_FR">
+<Text>Bu kod zaten kullanıldı. [n]Farklı bir kod kullanmak ister misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_ALREADY_REDEEMED_TITLE" Language="fr_FR">
+<Text>Kod Zaten Kullanıldı</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_FAILED_TITLE" Language="fr_FR">
+<Text>Geçersiz Kod</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_SUCCESS_TITLE" Language="fr_FR">
+<Text>Kod Başarılı</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_TEXT_FIELD" Language="fr_FR">
+<Text>Kodu Buraya Girin</Text>
+</Replace>
+<Replace Tag="LOC_UI_SAVE_CONFIG" Language="fr_FR">
+<Text>Yapılandırmayı Kaydet</Text>
+</Replace>
+<Replace Tag="LOC_UI_SOCIAL_TITLE" Language="fr_FR">
+<Text>Sosyal</Text>
+</Replace>
+<Replace Tag="LOC_UI_SPOP_LOGOUT_GAME" Language="fr_FR">
+<Text>Oturum Kapatma</Text>
+</Replace>
+<Replace Tag="LOC_UI_STORE_DESCRIPTION" Language="fr_FR">
+<Text>Civilization VII için mevcut ek içeriği görüntüleyin</Text>
+</Replace>
+<Replace Tag="LOC_UI_TERMINATE_SESSION" Language="fr_FR">
+<Text>Diğer oturumu sonlandırın</Text>
+</Replace>
+<Replace Tag="LOC_UI_TEXT_ENTRY_DENIAL" Language="fr_FR">
+<Text>Geçersiz metin girişi</Text>
+</Replace>
+<Replace Tag="LOC_UI_TEXT_TO_SPEECH_CONTROLLER" Language="fr_FR">
+<Text>Metinden Konuşmaya (Denetleyici Odağı)</Text>
+</Replace>
+<Replace Tag="LOC_UI_TEXT_TO_SPEECH_CONTROLLER_TT" Language="fr_FR">
+<Text>Platform tarafından destekleniyorsa, kontrolör odaklı metni metinden konuşmaya kullanarak anlatır</Text>
+</Replace>
+<Replace Tag="LOC_UI_TEXT_TO_SPEECH_KEYBOARD" Language="fr_FR">
+<Text>Metinden Konuşmaya (Fare İmleci)</Text>
+</Replace>
+<Replace Tag="LOC_UI_TEXT_TO_SPEECH_KEYBOARD_TT" Language="fr_FR">
+<Text>Platform tarafından destekleniyorsa, imlecin altındaki metni metinden konuşmaya kullanarak anlatır</Text>
+</Replace>
+<Replace Tag="LOC_UI_TOOLTIP_DLCS" Language="fr_FR">
+<Text>Resmi İçerik</Text>
+</Replace>
+<Replace Tag="LOC_UI_TOOLTIP_MODS" Language="fr_FR">
+<Text>Modlar</Text>
+</Replace>
+<Replace Tag="LOC_UI_TOOLTIP_STORE" Language="fr_FR">
+<Text>Koleksiyon</Text>
+</Replace>
+<Replace Tag="LOC_UNMUTE_DIALOG_TITLE" Language="fr_FR">
+<Text>Oyuncunun sesini açayım mı?</Text>
+</Replace>
+<Replace Tag="LOC_XR_CONTROLLER_TRIGGER_ACCEPT" Language="fr_FR">
+<Text>Kabul et</Text>
+</Replace>
+<Replace Tag="LOC_AGE_TRANSITION_CHOOSE_CIV" Language="fr_FR">
+<Text>{1_Civilization} seçin</Text>
+</Replace>
+<Replace Tag="LOC_AGE_TRANSITION_PLAY_AS" Language="fr_FR">
+<Text>[B]{1_Requirement}[/B] olarak oynayın</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_ADD_MEMENTO_UNLOCK" Language="fr_FR">
+<Text>{1_Level} seviyesinde kilidi aç</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_AGE_TITLE" Language="fr_FR">
+<Text>{1_Item} Çağ</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_LEADER_CIV_HISTORIC_BIAS" Language="fr_FR">
+<Text>[B]{1_LeaderName} [/B]tarihsel olarak bu uygarlıkla ilişkilidir.</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_POPUP_BODY" Language="fr_FR">
+<Text>{1_Name} satın almak istiyor musunuz?</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_UNLOCK_ITEM" Language="fr_FR">
+<Text>[B]{1_Item}[/B] kilidini açar.</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_UNLOCK_ITEM_IN_AGE" Language="fr_FR">
+<Text>[B]{2_Age} [/B]çağında [B]{1_Item} kilidini açar.[/B]</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_UNLOCKS_LIST" Language="fr_FR">
+<Text>Aşağıdakilerin kilidini açar:[BLIST]{1_Items}[LIST]</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_UNLOCKS_LIST_ITEM" Language="fr_FR">
+<Text>[LI] [B]{1_UnlockName}[/B].</Text>
+</Replace>
+<Replace Tag="LOC_CREATE_GAME_UNLOCKS_LIST_ITEM_IN_AGE" Language="fr_FR">
+<Text>[LI] [B]{1_UnlockName} [/B]in [B]{2_AgeName} [/B]age.</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_CHOICE_1_CONTEXT_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel Çapraz Oyun Kaydet {1_CrossplayType}</Text>
+</Replace>
+<Replace Tag="LOC_CROSSPLAY_CHOICE_2_CONTEXT_RESOLUTION" Language="fr_FR">
+<Text>2K Bağlantılı Çapraz Oyun Kaydetme {1_CrossplayType}</Text>
+</Replace>
+<Replace Tag="LOC_DIRECT_KICK_CONFIRM_DIALOG" Language="fr_FR">
+<Text>{1_kickPlayerName}'i hemen oyundan atmak istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_DIRECT_MUTE_CONFIRM_DIALOG" Language="fr_FR">
+<Text>{1_mutePlayerName}'i sessize almak istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_DIRECT_UNMUTE_CONFIRM_DIALOG" Language="fr_FR">
+<Text>{1_unmutePlayerName}'in sesini açmak istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_EDIT_MEMENTOS_LEADER_TITLE" Language="fr_FR">
+<Text>{1_LeaderName} Mementos</Text>
+</Replace>
+<Replace Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH" Language="fr_FR">
+<Text>Ana bilgisayar ile sürüm uyuşmazlığı.[N]Bizim Sürümümüz={1_localVersion}[N]Ana Bilgisayar Sürümü={2_remoteVersion}</Text>
+</Replace>
+<Replace Tag="LOC_GAME_SUMMARY_JOIN_CODE" Language="fr_FR">
+<Text>Katılım Kodu: {1_JoinCode}</Text>
+</Replace>
+<Replace Tag="LOC_GENERIC_CHOOSE" Language="fr_FR">
+<Text>{1_Choice} öğesini seçin</Text>
+</Replace>
+<Replace Tag="LOC_KICK_VOTE_CHOICE_DIALOG" Language="fr_FR">
+<Text>{2_kickerPlayerName}, {1_kickPlayerName}'e karşı bir oylama başlattı.[N]{1_kickPlayerName}'i oyundan atmak istiyor musunuz?</Text>
+</Replace>
+<Replace Tag="LOC_KICK_VOTE_CONFIRM_DIALOG" Language="fr_FR">
+<Text>{1_kickPlayerName}'i oyundan atmak istediğinizden emin misiniz? Oylama başlayacaktır.</Text>
+</Replace>
+<Replace Tag="LOC_METAPROGRESSION_CHALLENGE_MEMENTO_UNLOCKED_TEXT" Language="fr_FR">
+<Text>Memento'nun kilidi {1_PathType} seviye {2_level} için açıldı</Text>
+</Replace>
+<Replace Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME" Language="fr_FR">
+<Text>{1_PlayerName}'in Oyunu</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE" Language="fr_FR">
+<Text>{1: number 0.0}s</Text>
+</Replace>
+<Replace Tag="LOC_OPTIONS_TOOLTIP_DELAY_VALUE" Language="fr_FR">
+<Text>{1: number 0.0}s</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_ALL_QUESTS" Language="fr_FR">
+<Text>Tüm {1_Quests} Zorluklar</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_DIFFICULTY" Language="fr_FR">
+<Text>Zorluk derecesi: {1_Difficulty}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_GAME_SPEED" Language="fr_FR">
+<Text>Oyun Hızı: {1_Speed}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_NUMBER_COMPLETE" Language="fr_FR">
+<Text>Tüm Mücadeleler {1_NumCompleted}/{2_Total}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PATH_HEADER" Language="fr_FR">
+<Text>{1_Path} Seviye {2_Level}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_CHOICE_1_CONTEXT_CONFLICT_RESOLUTION" Language="fr_FR">
+<Text>Yerel İlerleme {1_ProgressType}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_CHOICE_2_CONTEXT_RESOLUTION" Language="fr_FR">
+<Text>2K Bağlantılı İlerleme {1_ProgressType}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_HEADER_LEVEL" Language="fr_FR">
+<Text>Seviye {1_Level}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_PROGRESS_HEADER_XP" Language="fr_FR">
+<Text>{1_CurrentPoints} / {2_NextLevelPoints} XP</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_QUEST_PROGRESS" Language="fr_FR">
+<Text>{1_Completed} / {2_Toplam}</Text>
+</Replace>
+<Replace Tag="LOC_PROFILE_TURNS" Language="fr_FR">
+<Text>{1_Turns} tur</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_MOD_NOT_INSTALLED" Language="fr_FR">
+<Text>[STYLE:text-negative]{1_modTitle} (YÜKLÜ DEĞIL)[/STYLE]</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_GAME_MOD_NOT_OWNED" Language="fr_FR">
+<Text>[STYLE:text-negative]{1_modTitle} (SAHIP DEĞIL)[/STYLE]</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_CONFIRM_OVERWRITE_BODY" Language="fr_FR">
+<Text>Bu mevcut kayıtlı {1_type} üzerine yazmak istediğinizden emin misiniz? Bu eylem geri alınamaz.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETE_DIALOG" Language="fr_FR">
+<Text>Bu {1_type} kaydını silmek istediğinizden emin misiniz? Bu eylem geri alınamaz.</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DELETING" Language="fr_FR">
+<Text>{1_SaveType} kaydı siliniyor...</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_DETAILS_SAVE_TYPE" Language="fr_FR">
+<Text>Kaydetme Türü: {1_SaveType}</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_LOADING" Language="fr_FR">
+<Text>{1_SaveType} kayıtları alınıyor...</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_DATE" Language="fr_FR">
+<Text>{1_Date: date short}</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVE_TIME" Language="fr_FR">
+<Text>{1_Date: time short}</Text>
+</Replace>
+<Replace Tag="LOC_SAVE_LOAD_SAVING" Language="fr_FR">
+<Text>{1_SaveType} kaydetme oluşturuluyor...</Text>
+</Replace>
+<Replace Tag="LOC_SHELL_BUILD_INFO" Language="fr_FR">
+<Text>Oluştur: {1_BuildString}</Text>
+</Replace>
+<Replace Tag="LOC_UI_ALREADY_FRIEND" Language="fr_FR">
+<Text>{1_PlayerName} zaten senin arkadaşın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_DESC_PRIVATE" Language="fr_FR">
+<Text>{1_Name}'e özel mesaj gönderin.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_ERROR_PLAYER" Language="fr_FR">
+<Text>Komut Hatası: '{1_Name}' isimli oyuncu mevcut değil veya bu isimde birden fazla oyuncu var. Lütfen kesin bir isim yazın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_COMMAND_ERROR_UNKNOWN" Language="fr_FR">
+<Text>Komut Hatası: Bilinmeyen Komut '/{1_Name}'</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_GAMEPAD_INPUT_DESC_PRIVATE" Language="fr_FR">
+<Text>{1_Name} adresine yazın</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_CONNECTED" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]bağlandı...</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_DIRECT_FAIL" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]'e karşı yapılan doğrudan vuruş başarısız oldu.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_DIRECT_KICK" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]'e karşı doğrudan vuruş başarılı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_DISCONNECTED" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]bağlantısı kesildi...</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_CROSSPLAY_DISABLED_CLIENT" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]istemcide çapraz oyun devre dışı bırakıldığı için atıldı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_CROSSPLAY_DISABLED_HOST" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]ana bilgisayarda çapraz oyun devre dışı bırakıldığı için atıldı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_DEFAULT" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]tekmelendi.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_MOD_ERROR" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]mod hatası nedeniyle atıldı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_MOD_MISSING" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]eksik mod nedeniyle atıldı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_NO_ROOM" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]yer kalmadığı için atıldı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_VERSION_MISMATCH" Language="fr_FR">
+<Text>Oyuncu [STYLE:mp-chat__text-shrink]{1_Name} [/S]sürüm uyuşmazlığı nedeniyle atıldı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_KICK" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]aleyhindeki oylama başarılı.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_NO_KICK" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]aleyhindeki oy reddedilmiştir.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_NOT_ENOUGH_PLAYERS" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]aleyhindeki oylama iptal edilmiştir. Yeterli seçmen yoktu.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_TARGET_INVALID" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]karşı yapılan oylama iptal edildi. Onlar geçerli bir tekme hedefi değildir.</Text>
+</Replace>
+<Replace Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_TIME_ELAPSED" Language="fr_FR">
+<Text>[STYLE:mp-chat__text-shrink]{1_Name} [/S]aleyhindeki oylama iptal edildi. Oylama için süre doldu.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MOD_AUTHOR" Language="fr_FR">
+<Text>Yazar {1_Name}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MOD_DATE" Language="fr_FR">
+<Text>Oluşturuldu: {1_Date: datetime}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_AGE" Language="fr_FR">
+<Text>Çağ: {1_age}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_MAP_TYPE" Language="fr_FR">
+<Text>Harita Türü: {1_map_type}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_RULE_SET" Language="fr_FR">
+<Text>Kural Seti: {1_rule_set}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_BROWSER_SPEED" Language="fr_FR">
+<Text>Hız: {1_speed}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_INVITE" Language="fr_FR">
+<Text>{1_PlayerName}'ndan gelen bir oyun davetini kabul etmek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_REQUEST" Language="fr_FR">
+<Text>{1_PlayerName}'den gelen arkadaşlık isteğini kabul etmek istediğine emin misin?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_BLOCK" Language="fr_FR">
+<Text>{1_PlayerName}'i engellemek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_CANCEL_REQUEST" Language="fr_FR">
+<Text>{1_PlayerName}'na gelen arkadaşlık isteğini iptal etmek istediğinden emin misin?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_INVITE" Language="fr_FR">
+<Text>{1_PlayerName}'ndan gelen bir oyun davetini reddetmek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_REQUEST" Language="fr_FR">
+<Text>{1_PlayerName}'den gelen arkadaşlık isteğini reddetmek istediğinden emin misin?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_GAME_INVITE" Language="fr_FR">
+<Text>{1_PlayerName}'e oyun daveti göndermek istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_REQUEST" Language="fr_FR">
+<Text>{1_PlayerName}'e arkadaşlık isteği göndermek istediğinden emin misin?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_CONFIRM_UNBLOCK" Language="fr_FR">
+<Text>{1_PlayerName} engelini kaldırmak istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_ACCEPT_FRIEND" Language="fr_FR">
+<Text>Şimdi {1_PlayerName} ile arkadaşsın</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_ADD_FRIEND" Language="fr_FR">
+<Text>{1_PlayerName} adlı kullanıcıya arkadaşlık isteği gönderdiniz.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_BLOCK" Language="fr_FR">
+<Text>{1_PlayerName}'nı engellediniz</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_DECLINE_FREIND" Language="fr_FR">
+<Text>{1_PlayerName}'ndan gelen bu arkadaşlık isteğini reddettiniz</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE" Language="fr_FR">
+<Text>{1_PlayerName}'nı davet ettiniz</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE_TO_JOIN" Language="fr_FR">
+<Text>{1_PlayerName}'na bir oyun daveti isteği gönderdiniz</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_REMOVE_FRIEND" Language="fr_FR">
+<Text>{1_PlayerName}'nı arkadaş listenizden çıkardınız</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_FEEDBACK_UNBLOCK" Language="fr_FR">
+<Text>{1_PlayerName} engelini kaldırdınız</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_NO_RESULTS" Language="fr_FR">
+<Text>{1_ListType} listenizde kimse yok Liste.</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_FRIENDS_REMOVE_FRIEND" Language="fr_FR">
+<Text>Arkadaş {1_PlayerName}'i kaldırmak istediğinizden emin misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_ERROR_BODY" Language="fr_FR">
+<Text>Lobiye katılınamadı: {1_Reason}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LANDING_UNKNOWN_ERROR" Language="fr_FR">
+<Text>Bilinmeyen hata döndürüldü: {1_ErrorNumber}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_PLAYERS" Language="fr_FR">
+<Text>{1_currentPlayers}/{2_maxPlayers} oyuncular</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_LOBBY_TEAM" Language="fr_FR">
+<Text>Takım {1_TeamNumarası}</Text>
+</Replace>
+<Replace Tag="LOC_UI_MP_REPORT_FEEDBACK_REPORTED" Language="fr_FR">
+<Text>{1_PlayerName}'nı rapor ettiniz</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_FAILED_INFO" Language="fr_FR">
+<Text>Bu kod geçersizdir.[n]{1_ErrorMessage}[n]Farklı bir kod kullanmak ister misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_SUCCESS_INFO" Language="fr_FR">
+<Text>Kod kullanımı başarılı! Size şu kod verildi:[n]{1_ListOfNames}[n]Başka bir kod kullanmak ister misiniz?</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_SUCCESS_INFO_CURRENCY" Language="fr_FR">
+<Text>- {1_Amount} {2_Name}[n]</Text>
+</Replace>
+<Replace Tag="LOC_UI_REDEEM_CODE_SUCCESS_INFO_ENTITLEMENT" Language="fr_FR">
+<Text>- {1_Name}[n]</Text>
+</Replace>
+</LocalizedText>
+</Database>
