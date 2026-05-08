@@ -1,1 +1,1 @@
-# C-vilization-7-T-rk-e-Yama
+CIVILIZATION 7 TURKISH LANGUAGE
